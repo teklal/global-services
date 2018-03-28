@@ -1,0 +1,77 @@
+
+<div class="row">
+  <div class="columns">
+    <b><p>{{site.data[page.lang].list.sectors}}</p></b>
+    <button class="hollow button red show-service-btn" onClick="showServices('base-camp',this)">{{ site.sectors.base-camp[page.lang] }}</button>
+    <button class="hollow button red show-service-btn" onClick="showServices('logs',this)">{{ site.sectors.logs[page.lang] }}</button>
+    <button class="hollow button red show-service-btn" onClick="showServices('wash',this)">{{ site.sectors.wash[page.lang] }}</button>
+  </div>
+</div>
+
+<div id="services-list" class="row small-up-1 medium-up-2 large-up-4 equalized" data-equalizer data-equalize-by-row="true">
+<!--  ...  -->
+</div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+<script>
+
+
+d3.json('{% render_depth %}services.json', function(data) {
+  buildServices(data);
+})
+
+var serviceCards;
+function buildServices(data) {
+  serviceCards = d3.select('#services-list').selectAll('div')
+    .data(data.filter(function(d){ return d.lang == '{{ page.lang }}' } )).enter()
+    .append('div')
+    .classed('column service-preview', true)
+    .attr('data-equalizer-watch', '')
+    .html(function(d){
+      return  "<div class='card service-card'>" +
+                "<div class='card-section'>" +
+                  "<h5>" + d.title + "</h5>" +
+                  "<p>" + d.preview + "</p>" +
+                "</div>" +
+                "<div class='card-section' style='visibility:hidden;'>" +
+                  "<a  style='visibility:hidden;' class='link--primary' href='" + d.url + "'>Learn More</a>" +
+                "</div>" +
+                "<div class='card-section read-more' >" +
+                  "<a class='link--primary' href='" + '{% render_depth %}' + d.url.substr(1) + "'>{{site.data[page.lang].list.learn-more}}</a>" +
+                "</div>" +
+            "</div>"
+    })
+    // this is a hack to wait until foundation is loaded
+    window.setTimeout(function() {
+      new Foundation.Equalizer($('.row.equalized'), {});
+    }, 200);  
+
+}
+
+
+
+function showServices(filterBy, button) {
+  if(d3.select(button).classed('hollow')){
+    d3.selectAll('.show-service-btn').classed('hollow', true);
+    d3.select(button).classed('hollow', false);
+    serviceCards.classed('hidden',true);
+    serviceCards.filter(function(d) { return d.sector == filterBy })
+      .classed('hidden',false);
+  } else {
+    d3.select(button).classed('hollow',true);
+    serviceCards.classed('hidden',false);
+  }
+
+}
+
+var throttleTimer; 
+window.addEventListener('resize', function() {
+  window.clearTimeout(throttleTimer);
+  throttleTimer = window.setTimeout(function() {
+    $('.row.equalized').foundation('_destroy');
+    var elem = new Foundation.Equalizer($('.row.equalized'), {});
+  }, 200);
+}, true);
+
+</script>

@@ -1,0 +1,38 @@
+source:       app
+baseurl:      "" 
+
+markdown:   kramdown
+permalink:  pretty
+exclude:
+  - assets/styles
+  - README.md
+  
+default_locale:     "en"
+authorized_locales: ["en", "es"]
+locale_names:
+  en: "English"
+  es: "Español"
+
+collections:
+  services:
+    output: true
+
+# these keys need to be used in the services yaml front matter    
+sectors:
+  wash:
+    en: "Water, sanitation, and hygiene (WASH)"
+    es: "Agua, saneamiento e higiene"
+    subsectors:
+      sanitation-and-hp:
+        en: "Sanitation and hygiene promotion"
+        es: "Promoción de saneamiento e higiene"
+      water-treatment:
+        en: "Water treatment"
+        es: "Tratamiento de aguas"
+  base-camp:
+    en: "Base camp"
+    es: "Campamento base"
+  logs:
+    en: "Logistics"
+    es: "Logística"
+        

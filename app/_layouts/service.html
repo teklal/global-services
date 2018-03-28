@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+
+{% include header.html %}
+<div class="row columns">
+<h2><a href="{% render_depth %}{{ site.data[page.lang].home | remove_first:'/' }}">{{ site.data[page.lang].about.title }}</a></h2>
+</div>
+<div class="row">
+  <div class="columns">
+    <h3 class="subheader">
+      {{ site.sectors[page.sector][page.lang] }}
+      
+      {% if site.sectors[page.sector].subsectors[page.subsector][page.lang] %}
+      - {{ site.sectors[page.sector].subsectors[page.subsector][page.lang] }}
+      {% endif %}
+    </h3>
+    <h3>{{page.slug}}</h3>
+  </div>
+</div>
+<div class="row columns">
+{{content}}
+</div>
+
+{% include footer.html %}

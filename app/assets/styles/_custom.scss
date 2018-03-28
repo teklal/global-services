@@ -1,0 +1,94 @@
+// When possible, use the rem and em units to size everything. 
+// Not just font size, but also padding, margins, and any length value. 
+// This ensures that your design scales up and down uniformly if 
+// the user changes their browser's text size. It's common for 
+// vision-impaired users to resize their browser up to 200% zoom.
+
+.page__footer {
+  background: $go-red-color;
+  padding: 2rem 0;
+  color: #ffffff;
+}
+
+// ===================== //
+// _includes/header.html //
+// ===================== //
+
+.header-branding {
+  height: rem-calc(40px);
+  margin: rem-calc(6px) 0;
+  img {
+    height: 100%;
+  }
+}
+.logo-go {
+  
+}
+.logo-ifrc {
+  border-left: rem-calc(1px) solid $go-red-color;
+  padding: rem-calc(6px);
+}
+
+// ===================== //
+// _includes/list.html //
+// ===================== //
+
+.service-preview {
+  margin-bottom: rem-calc(16px);
+}
+.service-preview.hidden {
+  display: none;
+}
+.service-card {
+  position:relative;
+  height: 100%;
+}
+.read-more {
+  position:absolute; 
+  bottom: 0;
+  right: 0;
+}
+button:focus {outline:0;}
+
+/* Links 
+   (from go-frontend)
+   ========================================================================== */
+
+a {
+  cursor: pointer;
+  color: $link-color;
+  text-decoration: none;
+  transition: opacity 0.24s ease 0s;
+}
+
+a:visited {
+  color: $link-color;
+}
+
+a:hover {
+  opacity: 0.64;
+}
+
+a:active {
+  outline: none;
+  transform: translate(0, 1px);
+}
+
+a:focus {
+  outline: none; // This causes usability problems. Needs fixing.
+}
+
+a.link--primary {
+  background-image: linear-gradient(180deg,transparent 65%, $go-red-color 0);
+  color: $base-color;
+  font-weight: 400;
+  padding-bottom: .25rem;
+  background-size: 100% 140%;
+  background-repeat: no-repeat;
+  text-decoration: none;
+  transition: background-size .4s ease;
+  &:hover {
+    opacity: 1;
+    background-size: 100% 85%;
+  };
+}

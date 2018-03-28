@@ -1,0 +1,26 @@
+############
+## COMMON ##
+############
+
+home: "/es/"
+collections:
+    services:
+      url: "/es/servicios/"
+
+###########
+## ABOUT ##
+###########
+
+about:
+  title:        "Servicios de respuesta global"
+  description:  "El sistema de Respuesta a Desastres de la Federación se ha desarrollado para cualquier situación de emergencia o desastre que requiera una respuesta a la que una Delegación o una Sociedad Nacional no puedan responder por sí solas. Los componentes de respuesta están diseñados para cubrir la brecha temporal o la sobrecarga de los servicios existentes causados por la situación."
+  
+  
+##########
+## LIST ##
+##########
+
+list:
+  sectors: "Pick a sector:"
+  learn-more: "Learn more"
+  
