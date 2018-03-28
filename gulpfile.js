@@ -142,7 +142,7 @@ gulp.task('no-reload', function(done) {
 var environment = 'development';
 gulp.task('prod', function(done) {
   environment = 'production';
-  runSequence('clean', 'get-humans', 'build', done);
+  runSequence('clean', 'build', 'get-humans', done);
 });
 
 // Removes jekyll's _site folder
@@ -193,7 +193,7 @@ gulp.task('get-humans', function(){
       for (i = 0; i < humans.length; i++) {
         doc = doc + '\nContributor: '+humans[i].login + '\nGithub: '+humans[i].html_url +'\n';
       }
-      fs.writeFile('./app/humans.txt', doc, function(err) {
+      fs.writeFile('./_site/humans.txt', doc, function(err) {
         if (err) throw err;
       });
     });
