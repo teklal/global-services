@@ -4,7 +4,7 @@ rvm:
 env:
   global:
   - TRAVIS_NODE_VERSION="v8.9.4"
-  - GH_REF=github.com/IFRCGo/ecv-toolkit.git
+  - GH_REF=github.com/IFRCGo/global-services.git
   - DEPLOY_BRANCH=publish
   matrix:
     secure: jpLVQptsQFsgAFNSb9eXYEIGsKWG2L8KJOZ0mwwh8vpMurGpwAw+ED7T/Bj83WGk64x38KNlVPVi05wc+aeug83jV/YTQesQuoXVBJMAbH3HaV2o9CNSqOGKOw4X8GhpdeDKEV59gjhSdotJ4eVQxy+rQKsfJRIsa2zOnNuPTQAJW3wMAnQR5JpIRidL88FlLIIN1mY/TckC1lEROE6vmdKbWfoURXMzG3VDphY9dP2jJ/FlwPeEqa0rmPvTazQ2sq4W34WikDBRwxPC5nkFdyS2HS13rRluJzAlBkAVVCyJCCNE37rjmXujeiTvLQvB9bftMEdds59sTmeVb182ecOe5/cqxIB5AERxBM16xmcSXTMg8eRvkOdtVeb2lHkHS5kAFOkRDzY0SeHGAfChyrE5zvWiIKJv3dPXUIrPH0PgfgjTSLznHYK/SIibK1BpsYPRgvrkcGvJ4AIqx49bv4m9yOTXYjoLMboc/Q7hr9rUZOXiCdqU0H/Ph6F9KTBCT7+HkkccMvaajHlvprMVvzw3gyngXj8sXKsxEKnI1EI2077oaFEkczBuwiC2FEyBhaoimNuv6pbDa8dQX/iSqJspGUH9QZOWEvnjGbxrHzQDf15mWquEDBBN+luUi3rR7oe5QEW3MDcLf/9imvFLLbJG1KdsnnuG3ia1sEExplE=
