@@ -193,7 +193,7 @@ gulp.task('get-humans', function(){
       for (i = 0; i < humans.length; i++) {
         doc = doc + '\nContributor: '+humans[i].login + '\nGithub: '+humans[i].html_url +'\n';
       }
-      fs.writeFile('./_site/humans.txt', doc, function(err) {
+      fs.writeFile('_site/humans.txt', doc, function(err) {
         if (err) throw err;
       });
     });
