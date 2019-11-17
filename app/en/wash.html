@@ -1,0 +1,10 @@
+---
+layout: default
+identifier: wash
+lang: en
+---
+{% assign sector = site.collections | where: "label", "wash" | first %}
+{% include sector-about.html %}
+{% include sector-rpp.html %}
+{% include sector-services.html %}
+{% include footer.html %}

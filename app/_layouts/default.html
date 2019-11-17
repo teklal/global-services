@@ -1,14 +1,56 @@
 <!doctype html>
-<html class="no-js" lang="{{ page.lang }}">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title></title>
-    <link rel="stylesheet" href="{% render_depth %}assets/styles/main.css">
-  </head>
-  <body>
+<html lang="{{ page.lang }}">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   
+  <link rel="stylesheet" href="{% render_depth %}assets/styles/lightgallery.min.css">
+  <link rel="stylesheet" href="{% render_depth %}assets/styles/justifiedGallery.min.css">
+  <link rel="stylesheet" href="{% render_depth %}assets/styles/main.css">
+  
+  <title>{{ site.data[page.lang].title }}</title>
+
+</head>
+  <body>
+    
+    <nav>
+      <div class="container py-5">
+        <div class="row no-gutters">
+          
+          <div class="col-1">
+            <a href="{{ site.baseurl }}/{% if page.lang != site.default_locale %}{{ page.lang }}/{% endif %}">
+              <div id="ifrc-nav-logo" style='background-image:url("{% render_depth %}assets/img/ifrc-digital-logo.svg")'></div>
+            </a>
+          </div>
+          
+        {% if page.collection %}
+          {% assign activePage = page.collection %}
+        {% else %}
+          {% assign activePage = page.identifier %}
+        {% endif %}
+          
+        {% for collection in site.collections %}
+          {% if collection.label != 'posts' %}
+          
+          <div class="col-1">
+              <a class="nav-link" href="{% render_depth %}{{ collection[page.lang].url | remove_first:'/' }}" class="">
+                <h1>
+                {% if collection.label == activePage %}
+                  <i class="nav-icon active humanitarian-icon_{{ collection.label }}"></i>
+                {% else %}
+                  <i class="nav-icon humanitarian-icon_{{ collection.label }}"></i>
+                {% endif %}
+                </h1>
+            </a>
+          </div>
+
+          {% endif %}
+        {% endfor %}
+             
+        </div>
+      </div>
+    </nav>  
     
     
     {{ content }}
@@ -17,9 +59,25 @@
 
 
     <script src="{% render_depth %}assets/js/vendor.min.js"></script>
+    <script src="{% render_depth %}assets/js/jquery.justifiedGallery.min.js"></script>
+    <script type="text/javascript">
+    
 
-    <script>
-      $(document).foundation();
+      $(document).ready(function() {
+        $("#lightgallery").lightGallery( {
+          thumbnail:true,
+          animateThumb: true,
+          download: false,
+          share: false,
+          pager: true
+        }); 
+        $("#lightgallery").justifiedGallery({
+            rowHeight : 175,
+            lastRow : 'nojustify',
+            margins : 6
+        });
+      });
+
     </script>
 
   </body>

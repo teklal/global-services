@@ -1,11 +1,26 @@
 ---
 layout: service
 identifier:
-sector: wash
-subsector: water-treatment
-title: ERU M15
+type: Emergency Response Unit
+title: M15 ERU
 preview: "Water treatment and distribution for 15,000 people."
 lang: en
+pictures:
+  - file: /wash/wash-example1.jpg
+    thumb: /wash/wash-example1_thumb.jpg
+    caption: this is my image 1
+  - file: /wash/wash-example2.jpg
+    thumb: /wash/wash-example2_thumb.jpg
+    caption: this is my image 2
+  - file: /wash/wash-example3.jpg
+    thumb: /wash/wash-example3_thumb.jpg
+    caption: this is my image 3
+  - file: /wash/wash-example4.jpg
+    thumb: /wash/wash-example4_thumb.jpg
+    caption: this is my image 4
+  - file: /wash/wash-example5.bmp
+    thumb: /wash/wash-example5_thumb.bmp
+    caption: this is my image 5
 ---
 
 ## Emergency Services
@@ -30,7 +45,7 @@ Water treatment and distribution for 15,000 people.
 
 **Total:** 4-6 people
 
-**Compostion:** Team Leader, 1-2 WASH or Chemical Engineer, 1 Technician/Plumber, 1 Logistic/Admin/Finance
+**Composition:** Team Leader, 1-2 WASH or Chemical Engineer, 1 Technician/Plumber, 1 Logistic/Admin/Finance
 
 ## Specifications
 

@@ -1,0 +1,27 @@
+<div class="container">
+  
+  <div class="row">
+    <div class="col-12">
+      <h2>Services</h2> 
+    </div>
+    {% for service in sector.docs %}
+      {% if service.lang == page.lang %}
+        <div class="col-12 col-sm-6 col-md-4">
+          <div class="card service-card mb-3">
+            <div class="card-header">
+              {{ service.type }}
+            </div>
+            <div class="card-body">
+              <h5 class="card-title">{{ service.title }}</h5>
+              <p class="card-text">{{ service.preview }} </p>
+              <a href="{% render_depth %}{{ service.url | remove_first:'/' }}" class="btn btn-outline-dark">{{ site.data[page.lang].learn-more }}</a>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+</div>
+
+<br>

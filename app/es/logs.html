@@ -1,0 +1,9 @@
+---
+layout: default
+identifier: logs
+lang: es
+---
+{% assign sector = site.collections | where: "label", "logs" | first %}
+{% include sector-about.html %}
+{% include coming-soon.html %}
+{% include footer.html %}

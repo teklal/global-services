@@ -1,11 +1,11 @@
 ---
 layout: service
 identifier:
-sector: wash
-subsector: water-treatment
-title: ERU M40
+type: Emergency Response Unit
+title: M40 ERU
 preview: "Water treatment and distribution for 40,000 people."
 lang: en
+pictures:
 ---
 
 ## Emergency Services

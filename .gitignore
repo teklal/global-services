@@ -4,6 +4,9 @@ _site
 .bundle
 bundle
 _config-dev.yml
+notes
+font-generator/icon-dist/*
+!font-generator/icon-dist/README.md
 
 # OS generated files #
 ######################

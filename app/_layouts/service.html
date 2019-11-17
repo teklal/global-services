@@ -2,25 +2,58 @@
 layout: default
 ---
 
-
-{% include header.html %}
-<div class="row columns">
-<h2><a href="{% render_depth %}{{ site.data[page.lang].home | remove_first:'/' }}">{{ site.data[page.lang].about.title }}</a></h2>
-</div>
-<div class="row">
-  <div class="columns">
-    <h3 class="subheader">
-      {{ site.sectors[page.sector][page.lang] }}
+<div class="container">
+  <div class="row">
+    <div class="col">
       
-      {% if site.sectors[page.sector].subsectors[page.subsector][page.lang] %}
-      - {{ site.sectors[page.sector].subsectors[page.subsector][page.lang] }}
-      {% endif %}
-    </h3>
-    <h3>{{page.slug}}</h3>
+      <h2><small class="text-muted">{{site.data[page.lang].title}} - {{ site.data[page.lang][page.collection].title }}</small></h2>
+      <h1>{{page.title}}</h1>
+      
+      <hr class="section-divider">
+      
+      {{content}}
+      
+    </div>
   </div>
 </div>
-<div class="row columns">
-{{content}}
-</div>
+
+
+{% assign gallery_size = page.pictures | size %}
+{% if gallery_size > 0 %}
+  <div class="container">
+    <div class="row">
+      <div class="col">
+      
+        <h2>{{site.data[page.lang].gallery}}</h2>
+        
+        {% for pic in page.pictures %}
+          <div id="caption{{forloop.index}}" style="display:none">
+            {{ pic.caption }}
+          </div>
+        {% endfor %}
+
+          <div class="picture-gallery">
+          <div id="lightgallery" class="justified-gallery">
+          {% for pic in page.pictures %}
+          
+            <a href="{% render_depth %}assets/img{{ pic.file }}" data-sub-html="#caption{{forloop.index}}">
+              <img class="" src="{% render_depth %}assets/img{{ pic.thumb }}" />
+              <div class="picture-gallery-poster">
+                <img src="{% render_depth %}assets/img/zoom.png">
+              </div>
+            </a>
+      
+          {% endfor %}
+          </div>
+          </div>
+
+        
+      </div>
+    </div>
+  </div> 
+{% endif %} 
+
+<br>
 
 {% include footer.html %}
+

@@ -1,11 +1,11 @@
 ---
 layout: service
 identifier:
-sector: wash
-subsector: sanitation-and-hp
-title: ERU MSM20
+type: Emergency Response Unit
+title: MSM20 ERU
 preview: "Sanitation facilities and hygiene promotion for 20,000 people."
 lang: en
+pictures:
 ---
 
 

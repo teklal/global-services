@@ -3,19 +3,47 @@
 ############
 
 home: "/"
-collections:
-    services:
-      url: "/services/"
+learn-more: "Learn more"
+gallery: "Image gallery"
+title: "Global response services"
 
 ###########
 ## ABOUT ##
 ###########
 
 about:
-  title:        "Global response services"
   description:  "The Federation Disaster Response system has been developed for any emergency or disaster situation that requires a response to which a Delegation or National Society cannot respond alone. Response components are designed to fill the temporary gap or overload of existing services caused by the situation."
-  
-  
+
+#############
+## SECTORS ##
+#############
+
+sectors:
+  rrp: "Rapid Response Personnel"
+  rp-title: "Role profiles"
+  rp-description: "Role profiles describe commonly deployed individuals."
+  framework-title: "Technical framework"
+  framework-description: "Tiered compentencies describing the knowledge and skills expected of personnel in this sector."  
+
+assessment:
+  title: "Emergency Needs Assessment"
+    
+cea:
+  title: "Community Engagement and Accountability"
+
+health:
+  title: "Health"
+
+logs:
+  title: "Logistics"
+
+wash:
+  title: "Water, sanitation, and hygiene (WASH)"
+  about: "There are 7 billion people on the planet today and by 2050, we will have welcomed another 2 billion. Currently an estimated 2.5 billion do not have access to basic sanitation, and 1.1 billion of those people still practice open defecation (15 per cent of the world’s total population)."
+  rp-link: "#"
+  framework-link: "#"
+
+
 ##########
 ## LIST ##
 ##########

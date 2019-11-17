@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "humanitarian";
+    src: url("../fonts/humanitarian.eot?7724cabe192634f0d13a971685033cdb?#iefix") format("embedded-opentype"),
+url("../fonts/humanitarian.woff2?7724cabe192634f0d13a971685033cdb") format("woff2"),
+url("../fonts/humanitarian.woff?7724cabe192634f0d13a971685033cdb") format("woff"),
+url("../fonts/humanitarian.ttf?7724cabe192634f0d13a971685033cdb") format("truetype"),
+url("../fonts/humanitarian.svg?7724cabe192634f0d13a971685033cdb#humanitarian") format("svg");
+}
+
+i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
+    font-family: humanitarian !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.humanitarian-icon_assessment:before {
+    content: "\f101";
+}
+.humanitarian-icon_cea:before {
+    content: "\f102";
+}
+.humanitarian-icon_health:before {
+    content: "\f103";
+}
+.humanitarian-icon_logs:before {
+    content: "\f104";
+}
+.humanitarian-icon_shelter:before {
+    content: "\f105";
+}
+.humanitarian-icon_wash:before {
+    content: "\f106";
+}

@@ -24,13 +24,11 @@ gulp.task('copy:assets', function(done) {
 
 var sassInput = 'app/assets/styles/*.scss';
 var sassOptions = {
-  includePaths: ['node_modules/foundation-sites/scss','node_modules/font-awesome/scss'],
+  includePaths: ['node_modules/bootstrap/scss','node_modules/@fortawesome/fontawesome-free/scss'],
   errLogToConsole: true,
   outputStyle: 'expanded'
 };
-var autoprefixerOptions = {
-  browsers: ['last 2 versions', 'ie >= 9', 'Android >= 2.3', 'ios >= 7']
-};
+var autoprefixerOptions = {};
 
 // TODO: clean this up
 // ===================
@@ -47,21 +45,37 @@ gulp.task('sass', function() {
     .pipe(gulp.dest('.tmp/assets/styles'));
 });
 
-gulp.task('fonts', function() {
-  return gulp.src('node_modules/font-awesome/fonts/**.*')
+gulp.task('fontawesome', function() {
+  return gulp.src('node_modules/@fortawesome/fontawesome-free/webfonts/**.*')
     .pipe(gulp.dest('.tmp/assets/fonts'));
 });
+
+gulp.task('lightgallery-fonts', function() {
+  return gulp.src('node_modules/lightgallery/dist/fonts/**.*')
+    .pipe(gulp.dest('.tmp/assets/fonts'));
+});
+gulp.task('lightgallery-css', function() {
+  return gulp.src('node_modules/lightgallery/dist/css/lightgallery.min.css')
+    .pipe(gulp.dest('.tmp/assets/styles'));
+});
+gulp.task('lightgallery-img', function() {
+  return gulp.src('node_modules/lightgallery/dist/img/**.*')
+    .pipe(gulp.dest('.tmp/assets/img'));
+});
+
+gulp.task('justifiedGallery-css', function() {
+  return gulp.src('app/assets/styles/justifiedGallery.min.css')
+    .pipe(gulp.dest('.tmp/assets/styles'));
+});
+
 
 var javascriptPaths = [
   // the order of these matter
   "node_modules/jquery/dist/jquery.js",
-  "node_modules/what-input/what-input.js",
-  // "node_modules/foundation-sites/dist/js/foundation.js",
-  "node_modules/foundation-sites/dist/js/plugins/foundation.core.js",
-  "node_modules/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.js",
-  "node_modules/foundation-sites/dist/js/plugins/foundation.util.imageLoader.js",
-  // https://foundation.zurb.com/sites/docs/equalizer.html#javascript-reference
-  "node_modules/foundation-sites/dist/js/plugins/foundation.equalizer.js" 
+  "node_modules/bootstrap/dist/js/bootstrap.js",
+  "node_modules/popper.js/dist/js/popper.js",
+  "node_modules/lightgallery/dist/js/lightgallery.min.js",
+  "node_modules/lightgallery/dist/js/lightgallery-all.min.js"
 ]
 
 // TODO: clean this up
@@ -102,7 +116,7 @@ gulp.task('jekyll:rebuild', ['jekyll'], function () {
 });
 
 gulp.task('build', function(done) {
-  runSequence(['jekyll', 'sass', 'javascripts', 'fonts'], ['copy:assets'], done);
+  runSequence(['jekyll', 'sass', 'javascripts', 'fontawesome', 'justifiedGallery-css', 'lightgallery-fonts', 'lightgallery-css', 'lightgallery-img'], ['copy:assets'], done);
 });
 
 // Default task.
