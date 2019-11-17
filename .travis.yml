@@ -7,7 +7,7 @@ env:
   - GH_REF=github.com/IFRCGo/global-services.git
   - DEPLOY_BRANCH=publish
   matrix:
-    secure: jpLVQptsQFsgAFNSb9eXYEIGsKWG2L8KJOZ0mwwh8vpMurGpwAw+ED7T/Bj83WGk64x38KNlVPVi05wc+aeug83jV/YTQesQuoXVBJMAbH3HaV2o9CNSqOGKOw4X8GhpdeDKEV59gjhSdotJ4eVQxy+rQKsfJRIsa2zOnNuPTQAJW3wMAnQR5JpIRidL88FlLIIN1mY/TckC1lEROE6vmdKbWfoURXMzG3VDphY9dP2jJ/FlwPeEqa0rmPvTazQ2sq4W34WikDBRwxPC5nkFdyS2HS13rRluJzAlBkAVVCyJCCNE37rjmXujeiTvLQvB9bftMEdds59sTmeVb182ecOe5/cqxIB5AERxBM16xmcSXTMg8eRvkOdtVeb2lHkHS5kAFOkRDzY0SeHGAfChyrE5zvWiIKJv3dPXUIrPH0PgfgjTSLznHYK/SIibK1BpsYPRgvrkcGvJ4AIqx49bv4m9yOTXYjoLMboc/Q7hr9rUZOXiCdqU0H/Ph6F9KTBCT7+HkkccMvaajHlvprMVvzw3gyngXj8sXKsxEKnI1EI2077oaFEkczBuwiC2FEyBhaoimNuv6pbDa8dQX/iSqJspGUH9QZOWEvnjGbxrHzQDf15mWquEDBBN+luUi3rR7oe5QEW3MDcLf/9imvFLLbJG1KdsnnuG3ia1sEExplE=
+    secure: bPpeyLdPCgl5PHLpkJQ+2yK9PnDEx4z0WM4VNyyErZjPyW+SZHVlcYl33xabj52F8thuyvdIKWAKhOj3yua6JvG6BKxqFMudIj36qhnav2mTC5UP8YE+dgbRzy1QLk63j/14s5/LvPQHMEtU27Ac7xJkXzAB1lhke8x0CpI3zWDg3miSBVlY1qqMK/7D1p4sJe1JySPXOaH6R9K6lMjmoBgLypcwaO7G2RZQiILC8OpELkdUAd3seo19cSSaHvC8gjaFLa9qtciUAyv3Jb7e8WG1OxnZeDS3PCgQkwIjSNNePCGCrI5HJVYRLXOsi0GwOoQRVSCOGKGCrDUr+Bh6sbXjcnYl8QFSdGlVqLVoE2Wn+iymC1HMky6D34osguTII18R5WX7cNm3RMCLXu6nrfuMw/pZp6hTeTV0BNAXBfaIXJ07iQCA3c7504JmAoz3/yhTf4/vV2mBt8eqVBXDM4RZT6FcVnO48gxXQ5nnvBbHzsRlQBplkXpuOrjxYVWn5o7HViMgUa/dIh3ZANF6MS7eTeCR8Te+Q8ymwDneIhDyrDbQoRPxqvhC3XKRwmKWiStLQMfohjcBTQdb9toAK27ifokORCWg6ZQk3an9gsAP3QYIiSHo7WGPbquiP+iB4UktoT2UaWy0NwVYq3OSDWejHrK6zICjppejsrW4ufQ=
 before_script:
 - ". $HOME/.nvm/nvm.sh"
 - nvm install $TRAVIS_NODE_VERSION
@@ -18,7 +18,7 @@ script: gulp prod
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: $GH_TOKEN
+  github-token: "$GH_TOKEN"
   keep-history: false
   on:
     branch: publish
