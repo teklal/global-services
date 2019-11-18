@@ -23,6 +23,10 @@ pictures:
     caption: this is my image 5
 ---
 
+## Capacity
+
+Water treatment and distribution for 15,000 people for a maximum of 4 months according to ERU SOPs. 
+
 ## Emergency Services
 
 1. Treatment (including filtration) and distribution of water up to 225,000 litres a day for a population of 15,000 people.
@@ -30,16 +34,12 @@ pictures:
 3. Basic sanitation for up to 5,000 people.   
 4. Distribution and trucking capacity for transport of treated water to dispersed populations, capacity of up to 75,000 litres a day.
 
-## Capacity
-
-Water treatment and distribution for 15,000 people.
-
-## Additional information
+## Designed for
 
 1. Response to scattered populations, with a flexible approach due to a number of smaller treatment units, which can be split and set up as stand-alone units in different locations.
 2. Availability of local water sources is required.
-3. Possibility to set up nine different storage and distribution points (preconditions are availability of flatbed trucks, fuel, road access).
-4. Water treatment lines (Catchment- Filtration - Chlorination - Distribution and delivery) are mobile and the number might vary from 3 to 5 (production from 45.000 to 75.000 liters/day.
+3. Possibility to set up nine different storage and distribution points. Preconditions are availability of flatbed trucks, fuel, road access.
+4. Water treatment lines (catchment, filtration, chlorination, distribution, and delivery) are mobile and the number might vary from 3 to 5 (production from 45,000 to 75,000 liters/day).
 
 ## Personnel
 
@@ -60,4 +60,4 @@ Water treatment and distribution for 15,000 people.
 ## Variation on configuration
 
 - Depending on NS the number of water purification lines (from catchment to delivery to affected people) can vary from 3 to 5.
-- This unit could also provide very basic sanitation and hygiene promotion activities to 5000 people.
+- This unit could also provide very basic sanitation and hygiene promotion activities to 5,000 people.

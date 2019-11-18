@@ -8,29 +8,28 @@ lang: en
 pictures:
 ---
 
+## Capacity
 
+Sanitation facilities and hygiene promotion for 20,000 people for a maximum of 4 months according to ERU SOPs. 
 
 ## Emergency Services
 
 Integrated response through:
 
-1. Hygiene promotion (including community mobilization,hygiene education, and operation and maintenance)
+1. Hygiene promotion (including community mobilization, hygiene education, and operation and maintenance)
 2. Basic sanitation facilities (including latrines, vector control and solid waste disposal) for up to 20,000)
 
-## Capacity
+## Designed for
 
-Sanitation facilities and hygiene promotion for 20,000 people.
-
-## Additional information
-
-1. Situations where bad hygiene is consistently practiced by affected people, where there is the danger of diarrehoea, cholera and other disease outbreaks will persist.
-
+1. Situations where bad hygiene is consistently practiced by affected people, where there is the danger of diarrhoea, cholera, and other disease outbreaks will persist.
 
 ## Personnel
 
 **Total:** 5-6 people
 
 **Compostion:** Team Leader, 1-2 Sanitation Engineer, 1 Hygiene promoter, 1 Logistic/Admin/Finance
+
+_In addition to the above team, local staff is normally contracted to assist in the construction of the sanitation facilities (masons, builders supervisors, etc)._
 
 ## Specifications
 
