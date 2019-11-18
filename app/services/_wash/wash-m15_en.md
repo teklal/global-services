@@ -1,6 +1,6 @@
 ---
 layout: service
-identifier:
+identifier: wash-m15
 type: Emergency Response Unit
 title: M15 ERU
 preview: "Water treatment and distribution for 15,000 people."

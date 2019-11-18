@@ -1,6 +1,6 @@
 ---
 layout: service
-identifier:
+identifier: wash-kit5
 type: Equipment
 title: Kit 5
 preview: "Water treatment at household level for 2,000 people."

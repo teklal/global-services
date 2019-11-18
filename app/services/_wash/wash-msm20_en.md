@@ -1,6 +1,6 @@
 ---
 layout: service
-identifier:
+identifier: wash-msm20
 type: Emergency Response Unit
 title: MSM20 ERU
 preview: "Sanitation facilities and hygiene promotion for 20,000 people."

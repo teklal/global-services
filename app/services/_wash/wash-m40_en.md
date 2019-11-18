@@ -1,6 +1,6 @@
 ---
 layout: service
-identifier:
+identifier: wash-m40
 type: Emergency Response Unit
 title: M40 ERU
 preview: "Water treatment and distribution for 40,000 people."

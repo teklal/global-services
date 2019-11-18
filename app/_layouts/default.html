@@ -16,42 +16,52 @@
     
     <nav>
       <div class="container py-5">
-        <div class="row no-gutters">
-          
-          <div class="col-1">
-            <a href="{{ site.baseurl }}/{% if page.lang != site.default_locale %}{{ page.lang }}/{% endif %}">
-              <div id="ifrc-nav-logo" style='background-image:url("{% render_depth %}assets/img/ifrc-digital-logo.svg")'></div>
-            </a>
-          </div>
-          
-        {% if page.collection %}
-          {% assign activePage = page.collection %}
-        {% else %}
-          {% assign activePage = page.identifier %}
-        {% endif %}
-          
-        {% for collection in site.collections %}
-          {% if collection.label != 'posts' %}
-          
-          <div class="col-1">
-              <a class="nav-link" href="{% render_depth %}{{ collection[page.lang].url | remove_first:'/' }}" class="">
-                <h1>
+        <div id="nav-row" class="row no-gutters">
+          <div id="nav-block">
+            <a class="nav-ifrc" href="{% render_depth %}{% if page.lang != site.default_locale %}{{ page.lang }}/{% endif %}" style='background-image:url("{% render_depth %}assets/img/ifrc-digital-logo.svg")'></a>
+            {% if page.collection %}
+              {% assign activePage = page.collection %}
+            {% else %}
+              {% assign activePage = page.identifier %}
+            {% endif %}
+            {% for collection in site.collections %}
+              {% if collection.label != 'posts' %}
+                <a href="{% render_depth %}{{ collection[page.lang].url | remove_first:'/' }}" class="">
                 {% if collection.label == activePage %}
-                  <i class="nav-icon active humanitarian-icon_{{ collection.label }}"></i>
+                  <i class="nav-sector active humanitarian-icon_{{ collection.label }}"></i>
                 {% else %}
-                  <i class="nav-icon humanitarian-icon_{{ collection.label }}"></i>
+                  <i class="nav-sector humanitarian-icon_{{ collection.label }}"></i>
                 {% endif %}
-                </h1>
-            </a>
+                </a>
+              {% endif %}
+            {% endfor %}
+          </div> 
+        
+          <div id="languageDropdown" class="dropdown ">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="languagePicker" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              {{ page.lang | upcase }}
+            </button>
+            <div class="dropdown-menu" aria-labelledby="languagePicker">
+              {% for loc in site.authorized_locales %}
+                {% if loc != page.lang %}  
+                  {% if page.collection %}  
+                    {% assign collection = site.collections | where: "label", page.collection | first %}
+                    {% assign pg = collection.docs | where:"lang",loc | where:"identifier",page.identifier | first %}
+                  {% else %}
+                    {% assign pg = site.pages | where:"lang",loc | where:"identifier",page.identifier | first %}
+                  {% endif %}
+                  <a class="dropdown-item" href="{% render_depth %}{{pg.url | remove_first:'/' }}">{{ loc | upcase }}</a>
+                {% endif %}
+              {% endfor %}
+            </div>
           </div>
-
-          {% endif %}
-        {% endfor %}
-             
+        
+                
         </div>
       </div>
-    </nav>  
-    
+    </nav> 
+   
+   
     
     {{ content }}
 
