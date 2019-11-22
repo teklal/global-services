@@ -2,9 +2,10 @@
   
   <div class="row">
     <div class="col-12">
-      <h2>Services</h2> 
+      <h2>{{ site.data[page.lang].sectors.services }}</h2>
     </div>
-    {% for service in sector.docs %}
+    {% assign services = sector.docs | sort: 'order' %}
+    {% for service in services %}
       {% if service.lang == page.lang %}
         <div class="col-12 col-sm-6 col-md-4">
           <div class="card service-card mb-3">

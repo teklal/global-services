@@ -1,4 +1,5 @@
 ---
+order: 6
 layout: service
 identifier: wash-m40
 type: Emergency Response Unit

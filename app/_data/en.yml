@@ -4,6 +4,7 @@
 
 home: "/"
 learn-more: "Learn more"
+go-to: "Go to"
 gallery: "Image gallery"
 title: "Global response services"
 
@@ -19,7 +20,9 @@ about:
 #############
 
 sectors:
-  rrp: "Rapid Response Personnel"
+  additional-resources: "Additional resources"
+  services: "Services"
+  rrp: "Rapid response personnel"
   rp-title: "Role profiles"
   rp-description: "Role profiles describe commonly deployed individuals."
   framework-title: "Technical framework"
@@ -39,10 +42,18 @@ logs:
 
 wash:
   title: "Water, sanitation, and hygiene (WASH)"
-  about: "There are 7 billion people on the planet today and by 2050, we will have welcomed another 2 billion. Currently an estimated 2.5 billion do not have access to basic sanitation, and 1.1 billion of those people still practice open defecation (15 per cent of the world’s total population)."
-  rp-link: "#"
-  framework-link: "#"
-
+  about: "The IFRC and its member national societies have built a network of WASH expertise and equipment to respond to a range of disaster scale and context.  On average, we provide 1.8 million people per year with access to safe water, sanitation and hygiene promotion in emergency response globally."
+  role-profiles:
+    - name: "WASH Coordinator"
+      link: "#"
+    - name: "WASH Engineer"
+      link: "#"
+    - name: "Hygiene Promotion Specialist"
+      link: "#"
+  resources:
+    - name: "Watsan Mission Assistant"
+      description: "This is a website resource for field WASH practitioners."
+      link: "http://watsanmissionassistant.org/"
 
 ##########
 ## LIST ##

@@ -1,0 +1,31 @@
+<div class="container">
+  
+  <div class="row">
+    <div class="col">
+      
+      <hr class="section-divider">
+  
+      
+      <div class="row">
+        <div class="col-12">
+          <h2>{{ site.data[page.lang].sectors.additional-resources }}</h2>
+        </div>
+        {% for resource in site.data[page.lang][sector.label].resources %}
+          <div class="col-12 col-sm-6 col-md-4">
+            <div class="card service-card mb-3">
+              <div class="card-header">
+                {{ resource.name }}
+              </div>
+              <div class="card-body">
+                <p class="card-text">{{ resource.description }} </p>
+                <a href="{{ resource.link }}" class="btn btn-outline-dark">{{ site.data[page.lang].go-to }} &nbsp;<i class="fas fa-external-link-alt"></i></a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      
+    </div>
+  </div>
+  
+</div>

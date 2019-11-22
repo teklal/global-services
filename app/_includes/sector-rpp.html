@@ -1,18 +1,18 @@
 <div class="container">
-  
   <div class="row">
+    
     <div class="col-12">
       <h2>{{ site.data[page.lang].sectors.rrp }}</h2> 
     </div>
+      
     <div class="col-12">
       <div class="card-deck">
         <div class="card">
           <div class="card-header">{{ site.data[page.lang].sectors.rp-title }}</div>
-          <div class="card-body">
-            <p class="card-text">{{ site.data[page.lang].sectors.rp-description }}</p>
-          </div>
-          <div class="card-footer bg-transparent pt-0 border-top-0">
-            <a href="#" class="btn btn-outline-dark">{{ site.data[page.lang].learn-more }}</a>
+          <div class="list-group list-group-flush">
+            {% for profile in site.data[page.lang][sector.label].role-profiles %}
+             <a href="{{ profile.link }}" class="list-group-item list-group-item-action">{{ profile.name }} &nbsp;<i class="far fa-file-pdf"></i></a>
+            {% endfor %}
           </div>
         </div>
         <div class="card">
@@ -21,13 +21,13 @@
             <p class="card-text">{{ site.data[page.lang].sectors.framework-description }}</p>
           </div>
           <div class="card-footer bg-transparent pt-0 border-top-0">
-            <a href="#" class="btn btn-outline-dark">{{ site.data[page.lang].learn-more }}</a>
+            <a href="#" class="btn btn-outline-dark">{{ site.data[page.lang].learn-more }} &nbsp;<i class="far fa-file-pdf"></i></a>
           </div>
         </div>
       </div>
-    </div>    
+    </div>
+       
   </div>
-
 </div>
 
 <br>

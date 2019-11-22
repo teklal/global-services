@@ -1,4 +1,5 @@
 ---
+order: 4
 layout: service
 identifier: wash-m15
 type: Emergency Response Unit

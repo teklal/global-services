@@ -1,4 +1,5 @@
 ---
+order: 5
 layout: service
 identifier: wash-msm20
 type: Emergency Response Unit
