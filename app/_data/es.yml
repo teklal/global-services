@@ -2,16 +2,22 @@
 ## COMMON ##
 ############
 
+meta:
+  title: "Servicios de respuesta global"
+  description: "The Federation Disaster Response system has been developed for any emergency or disaster situation that requires a response to which a Delegation or National Society cannot respond alone. Response components are designed to fill the temporary gap or overload of existing services caused by the situation."
+  
+  
 home: "/es/"
 learn-more: "Learn more"
+go-to: "Go to"
 gallery: "Image gallery"
-title: "Servicios de respuesta global"
 
 ###########
 ## ABOUT ##
 ###########
 
-about:     
+about:    
+  title: "Servicios de respuesta global"
   description:  "Coming soon!"
   
 #############

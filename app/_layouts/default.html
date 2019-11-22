@@ -6,11 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="icon" href="{% render_depth %}favicon.ico" type="image/x-icon" />
   
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@ifrc" />
+  <meta property="og:title" content="{{ site.data[page.lang].meta.title }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="{{ site.data[page.lang].meta.description }}" />
+  
   <link rel="stylesheet" href="{% render_depth %}assets/styles/lightgallery.min.css">
   <link rel="stylesheet" href="{% render_depth %}assets/styles/justifiedGallery.min.css">
   <link rel="stylesheet" href="{% render_depth %}assets/styles/main.css">
   
-  <title>{{ site.data[page.lang].title }}</title>
+  <title>{{ site.data[page.lang].meta.title }}</title>
 
 </head>
   <body>
