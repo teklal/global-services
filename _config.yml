@@ -1,5 +1,5 @@
 source:       app
-baseurl:      "https://ifrcgo.org/global-services" 
+baseurl:      "https://ifrcgo.github.io/global-services" 
 
 markdown:   kramdown
 permalink:  pretty
