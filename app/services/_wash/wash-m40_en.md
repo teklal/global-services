@@ -38,6 +38,7 @@ Water treatment and distribution for 40,000 people for a maximum of 4 months acc
 3. Distribution and trucking capacity for the transport of treated water to dispersed populations.
 
 ## Designed for
+
 1. Response to population that could be scattered but not very dispersed, due to the need to set up a water treatment not mobile camp.
 2. The unit requires the availability of a suitable local surface water supply.
 3. Tanks for water treatment are normally not mobile.

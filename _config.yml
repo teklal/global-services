@@ -23,6 +23,7 @@ collections:
     es: 
       url: "/es/assessment/"
   basecamp:
+    output: true
     en: 
       url: "/basecamp/"
     es: 
