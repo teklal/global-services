@@ -1,10 +1,10 @@
 @font-face {
     font-family: "humanitarian";
-    src: url("../fonts/humanitarian.eot?7724cabe192634f0d13a971685033cdb?#iefix") format("embedded-opentype"),
-url("../fonts/humanitarian.woff2?7724cabe192634f0d13a971685033cdb") format("woff2"),
-url("../fonts/humanitarian.woff?7724cabe192634f0d13a971685033cdb") format("woff"),
-url("../fonts/humanitarian.ttf?7724cabe192634f0d13a971685033cdb") format("truetype"),
-url("../fonts/humanitarian.svg?7724cabe192634f0d13a971685033cdb#humanitarian") format("svg");
+    src: url("../fonts/humanitarian.eot?f28b81a37e7629e9253eb1e2328d042c?#iefix") format("embedded-opentype"),
+url("../fonts/humanitarian.woff2?f28b81a37e7629e9253eb1e2328d042c") format("woff2"),
+url("../fonts/humanitarian.woff?f28b81a37e7629e9253eb1e2328d042c") format("woff"),
+url("../fonts/humanitarian.ttf?f28b81a37e7629e9253eb1e2328d042c") format("truetype"),
+url("../fonts/humanitarian.svg?f28b81a37e7629e9253eb1e2328d042c#humanitarian") format("svg");
 }
 
 i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
@@ -18,21 +18,45 @@ i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.humanitarian-icon_assessment:before {
+.humanitarian-icon_advocacy:before {
     content: "\f101";
 }
-.humanitarian-icon_cea:before {
+.humanitarian-icon_assessment:before {
     content: "\f102";
 }
-.humanitarian-icon_health:before {
+.humanitarian-icon_basecamp:before {
     content: "\f103";
 }
-.humanitarian-icon_logs:before {
+.humanitarian-icon_cash:before {
     content: "\f104";
 }
-.humanitarian-icon_shelter:before {
+.humanitarian-icon_cea:before {
     content: "\f105";
 }
-.humanitarian-icon_wash:before {
+.humanitarian-icon_health:before {
     content: "\f106";
+}
+.humanitarian-icon_im:before {
+    content: "\f107";
+}
+.humanitarian-icon_itt:before {
+    content: "\f108";
+}
+.humanitarian-icon_logs:before {
+    content: "\f109";
+}
+.humanitarian-icon_pgi:before {
+    content: "\f10a";
+}
+.humanitarian-icon_relief:before {
+    content: "\f10b";
+}
+.humanitarian-icon_security:before {
+    content: "\f10c";
+}
+.humanitarian-icon_shelter:before {
+    content: "\f10d";
+}
+.humanitarian-icon_wash:before {
+    content: "\f10e";
 }

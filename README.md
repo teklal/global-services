@@ -15,6 +15,21 @@
 - `icon-font-generator font-generator/my-icons/*.svg --name humanitarian --prefix humanitarian --html false --json false --cssfontsurl  "../fonts/" -o font-generator/icon-dist`  
 - copy files to `/app/assets/fonts` and `/app/assets/styles`
 
+**Resizing images**
+
+```
+# On OSX download HomeBrew and type:
+brew install imagemagick
+# ImageMagick depends on Ghostscript fonts. To install them, type:
+brew install ghostscript
+
+mogrify -format jpg -resize 1200x1200\> *
+
+mogrify  -format jpg -auto-orient -thumbnail 300x300\> -unsharp 0x.5  '*_thumb.*'
+
+
+
+```
 
 ### Travis-CI
 

@@ -30,20 +30,45 @@ sectors:
   rrp: "Rapid response personnel"
   rp-title: "Role profiles"
   rp-description: "Role profiles describe commonly deployed individuals."
-  framework-title: "Technical framework"
+  framework-title: "Technical competency framework"
   framework-description: "Tiered compentencies describing the knowledge and skills expected of personnel in this sector."  
 
 assessment:
   title: "Emergency Needs Assessment"
-    
+
+basecamp:
+  title: "Basecamp"
+
+cash:
+  title: "Cash-Based Intervention (CBI)"    
+
 cea:
-  title: "Community Engagement and Accountability"
+  title: "Community Engagement and Accountability (CEA)"
 
 health:
   title: "Health"
+  about: "The IFRC works to reduce illness and death and improve health and maintain human dignity during health emergencies."
+
+im:
+  title: "Information Management (IM)"
+
+itt:
+  title: "Information Technology & Telecoms (IT/T)"
 
 logs:
   title: "Logistics"
+
+pgi:
+  title: "Protection, Gender and Inclusion (PGI)"
+
+relief:
+  title: "Relief"
+
+security:
+  title: "Security"
+
+shelter:
+  title: "Shelter"  
 
 wash:
   title: "Water, sanitation, and hygiene (WASH)"

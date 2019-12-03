@@ -7,21 +7,27 @@ title: M15 ERU
 preview: "Water treatment and distribution for 15,000 people."
 lang: en
 pictures:
-  - file: /wash/wash-example1.jpg
-    thumb: /wash/wash-example1_thumb.jpg
-    caption: this is my image 1
-  - file: /wash/wash-example2.jpg
-    thumb: /wash/wash-example2_thumb.jpg
-    caption: this is my image 2
-  - file: /wash/wash-example3.jpg
-    thumb: /wash/wash-example3_thumb.jpg
-    caption: this is my image 3
-  - file: /wash/wash-example4.jpg
-    thumb: /wash/wash-example4_thumb.jpg
-    caption: this is my image 4
-  - file: /wash/wash-example5.bmp
-    thumb: /wash/wash-example5_thumb.bmp
-    caption: this is my image 5
+  - file: /wash/wash-m15_01.jpg
+    thumb: /wash/wash-m15_01_thumb.jpg
+    caption: "Water treatment camp in Mozambique"
+  - file: /wash/wash-m15_02.jpg
+    thumb: /wash/wash-m15_02_thumb.jpg
+    caption: "Water treatment camp in Indonesia"
+  - file: /wash/wash-m15_03.jpg
+    thumb: /wash/wash-m15_03_thumb.jpg
+    caption: "Water treatment line"
+  - file: /wash/wash-m15_04.jpg
+    thumb: /wash/wash-m15_04_thumb.jpg
+    caption: "M15 water treatment process"
+  - file: /wash/wash-m15_05.jpg
+    thumb: /wash/wash-m15_05_thumb.jpg
+    caption: "Making analysis of the purified water"
+  - file: /wash/wash-m15_06.jpg
+    thumb: /wash/wash-m15_06_thumb.jpg
+    caption: "Tap stand in China"
+  - file: /wash/wash-m15_07.jpg
+    thumb: /wash/wash-m15_07_thumb.jpg
+    caption: "Tap stand in Haiti"
 ---
 
 ## Capacity

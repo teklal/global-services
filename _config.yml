@@ -22,6 +22,17 @@ collections:
       url: "/assessment/"
     es: 
       url: "/es/assessment/"
+  basecamp:
+    en: 
+      url: "/basecamp/"
+    es: 
+      url: "/es/basecamp/"
+  cash:
+    output: true
+    en: 
+      url: "/cash/"
+    es: 
+      url: "/es/cash/"
   cea:
     output: true
     en: 
@@ -34,12 +45,48 @@ collections:
       url: "/health/"
     es: 
       url: "/es/salud/"
+  im:
+    output: true
+    en: 
+      url: "/infomgmt/"
+    es: 
+      url: "/es/im/"
+  itt:
+    output: true
+    en: 
+      url: "/itt/"
+    es: 
+      url: "/es/itt/"
   logs:
     output: true
     en: 
       url: "/logistics/"
     es: 
       url: "/es/logistica/"
+  pgi:
+    output: true
+    en: 
+      url: "/pgi/"
+    es: 
+      url: "/es/pgi/"  
+  relief:
+    output: true
+    en: 
+      url: "/relief/"
+    es: 
+      url: "/es/relief/"  
+  security:
+    output: true
+    en: 
+      url: "/security/"
+    es: 
+      url: "/es/security/"
+  shelter:
+    output: true
+    en: 
+      url: "/shelter/"
+    es: 
+      url: "/es/shelter/"
   wash:
     output: true
     en: 

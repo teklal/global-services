@@ -28,11 +28,17 @@ sectors:
   rrp: "Rapid Response Personnel"
   rp-title: "Role profiles"
   rp-description: "Role profiles describe commonly deployed individuals."
-  framework-title: "Technical framework"
+  framework-title: "Technical competency framework"
   framework-description: "Tiered compentencies describing the knowledge and skills expected of personnel in this sector."  
 
 assessment:
   title: "Evaluación de Necesidades de Emergencia"
+
+basecamp:
+  title: "Basecamp"
+
+cash:
+  title: "Cash-Based Intervention (CBI)"    
     
 cea:
   title: "Participación Comunitaria y rendición de cuentas a la comunidad"
@@ -40,8 +46,26 @@ cea:
 health:
   title: "Health"
 
+im:
+  title: "Information Management (IM)"
+
+itt:
+  title: "Information Technology & Telecoms (IT/T)"
+
 logs:
   title: "Logística"
+
+pgi:
+  title: "Protection, Gender and Inclusion (PGI)"
+
+relief:
+  title: "Relief"
+
+security:
+  title: "Security"
+
+shelter:
+  title: "Shelter"  
 
 wash:
   title: "Agua, saneamiento e higiene (WASH)"

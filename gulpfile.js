@@ -139,6 +139,7 @@ gulp.task('serve', ['build'], function () {
     './app/**/*.html',
     './app/**/*.yml',
     './app/**/*.md', 
+    './app/**/**/*.md', 
     '_config*', 
     './app/assets/styles/*.scss'
   ]

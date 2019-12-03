@@ -7,6 +7,9 @@ title: Kit 5
 preview: "Water treatment for 5,000 people."
 lang: en
 pictures:
+- file: /wash/wash-kit5_01.jpg
+  thumb: /wash/wash-kit5_01_thumb.jpg
+  caption: WASH Kit 5
 ---
 
 ## Capacity

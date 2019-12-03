@@ -7,6 +7,24 @@ title: M40 ERU
 preview: "Water treatment and distribution for 40,000 people."
 lang: en
 pictures:
+- file: /wash/wash-m40_01.jpg
+  thumb: /wash/wash-m40_01_thumb.jpg
+  caption: "RCRC personnel working with pumps and pipes"
+- file: /wash/wash-m40_02.jpg
+  thumb: /wash/wash-m40_02_thumb.jpg
+  caption: "Rigid steel tanks"
+- file: /wash/wash-m40_03.jpg
+  thumb: /wash/wash-m40_03_thumb.jpg
+  caption: "RCRC personnel and rigid tank"
+- file: /wash/wash-m40_04.jpg
+  thumb: /wash/wash-m40_04_thumb.jpg
+  caption: "Setting up tanks"
+- file: /wash/wash-m40_05.jpg
+  thumb: /wash/wash-m40_05_thumb.jpg
+  caption: "Tank filling with raw water"
+- file: /wash/wash-m40_06.jpg
+  thumb: /wash/wash-m40_06_thumb.jpg
+  caption: "Truck refilling from a tank with purified water"
 ---
 
 ## Capacity
