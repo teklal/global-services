@@ -33,7 +33,7 @@
             {% endif %}
             {% for collection in site.collections %}
               {% if collection.label != 'posts' %}
-                <a href="{% render_depth %}{{ collection[page.lang].url | remove_first:'/' }}" class="">
+                <a href="{% render_depth %}{{ collection[page.lang].url | remove_first:'/' }}" class="" data-toggle="tooltip" data-placement="bottom" title="{{ site.data[page.lang][collection.label].title}}">
                 {% if collection.label == activePage %}
                   <i class="nav-sector active humanitarian-icon_{{ collection.label }}"></i>
                 {% else %}
@@ -93,6 +93,10 @@
             lastRow : 'nojustify',
             margins : 6
         });
+        $(function () {
+          $('[data-toggle="tooltip"]').tooltip({
+          })
+        })
       });
 
     </script>
