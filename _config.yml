@@ -40,6 +40,12 @@ collections:
       url: "/cea/"
     es: 
       url: "/es/cea/"
+  comms:
+    output: true
+    en: 
+      url: "/comms/"
+    es: 
+      url: "/es/comms/"
   health:
     output: true
     en: 

@@ -1,10 +1,10 @@
 @font-face {
     font-family: "humanitarian";
-    src: url("../fonts/humanitarian.eot?f28b81a37e7629e9253eb1e2328d042c?#iefix") format("embedded-opentype"),
-url("../fonts/humanitarian.woff2?f28b81a37e7629e9253eb1e2328d042c") format("woff2"),
-url("../fonts/humanitarian.woff?f28b81a37e7629e9253eb1e2328d042c") format("woff"),
-url("../fonts/humanitarian.ttf?f28b81a37e7629e9253eb1e2328d042c") format("truetype"),
-url("../fonts/humanitarian.svg?f28b81a37e7629e9253eb1e2328d042c#humanitarian") format("svg");
+    src: url("../fonts/humanitarian.eot?c80ebef04277670763a207960bd6068c?#iefix") format("embedded-opentype"),
+url("../fonts/humanitarian.woff2?c80ebef04277670763a207960bd6068c") format("woff2"),
+url("../fonts/humanitarian.woff?c80ebef04277670763a207960bd6068c") format("woff"),
+url("../fonts/humanitarian.ttf?c80ebef04277670763a207960bd6068c") format("truetype"),
+url("../fonts/humanitarian.svg?c80ebef04277670763a207960bd6068c#humanitarian") format("svg");
 }
 
 i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
@@ -33,30 +33,33 @@ i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
 .humanitarian-icon_cea:before {
     content: "\f105";
 }
-.humanitarian-icon_health:before {
+.humanitarian-icon_comms:before {
     content: "\f106";
 }
-.humanitarian-icon_im:before {
+.humanitarian-icon_health:before {
     content: "\f107";
 }
-.humanitarian-icon_itt:before {
+.humanitarian-icon_im:before {
     content: "\f108";
 }
-.humanitarian-icon_logs:before {
+.humanitarian-icon_itt:before {
     content: "\f109";
 }
-.humanitarian-icon_pgi:before {
+.humanitarian-icon_logs:before {
     content: "\f10a";
 }
-.humanitarian-icon_relief:before {
+.humanitarian-icon_pgi:before {
     content: "\f10b";
 }
-.humanitarian-icon_security:before {
+.humanitarian-icon_relief:before {
     content: "\f10c";
 }
-.humanitarian-icon_shelter:before {
+.humanitarian-icon_security:before {
     content: "\f10d";
 }
-.humanitarian-icon_wash:before {
+.humanitarian-icon_shelter:before {
     content: "\f10e";
+}
+.humanitarian-icon_wash:before {
+    content: "\f10f";
 }

@@ -1,0 +1,9 @@
+---
+layout: default
+identifier: comms
+lang: en
+---
+{% assign sector = site.collections | where: "label", "comms" | first %}
+{% include sector-about.html %}
+{% include sector-services.html %}
+{% include footer.html %}
