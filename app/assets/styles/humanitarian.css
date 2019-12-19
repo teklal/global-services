@@ -1,10 +1,10 @@
 @font-face {
     font-family: "humanitarian";
-    src: url("../fonts/humanitarian.eot?c80ebef04277670763a207960bd6068c?#iefix") format("embedded-opentype"),
-url("../fonts/humanitarian.woff2?c80ebef04277670763a207960bd6068c") format("woff2"),
-url("../fonts/humanitarian.woff?c80ebef04277670763a207960bd6068c") format("woff"),
-url("../fonts/humanitarian.ttf?c80ebef04277670763a207960bd6068c") format("truetype"),
-url("../fonts/humanitarian.svg?c80ebef04277670763a207960bd6068c#humanitarian") format("svg");
+    src: url("../fonts/humanitarian.eot?74875cc2dbef4e013ad0446e8ce332cd?#iefix") format("embedded-opentype"),
+url("../fonts/humanitarian.woff2?74875cc2dbef4e013ad0446e8ce332cd") format("woff2"),
+url("../fonts/humanitarian.woff?74875cc2dbef4e013ad0446e8ce332cd") format("woff"),
+url("../fonts/humanitarian.ttf?74875cc2dbef4e013ad0446e8ce332cd") format("truetype"),
+url("../fonts/humanitarian.svg?74875cc2dbef4e013ad0446e8ce332cd#humanitarian") format("svg");
 }
 
 i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
