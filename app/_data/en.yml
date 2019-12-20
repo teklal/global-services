@@ -4,8 +4,7 @@
 
 meta:
   title: "Global response services"
-  description: "The Federation Disaster Response system has been developed for any emergency or disaster situation that requires a response to which a Delegation or National Society cannot respond alone. Response components are designed to fill the temporary gap or overload of existing services caused by the situation."
-
+  description: "We strive to ensure that a well-functioning, relevant global disaster management system is in place to address the needs of vulnerable people affected by disasters and crises. This IFRC catalogue of Emergency Services is a guide to the emergency response services we provide globally."
 
 home: "/"
 learn-more: "Learn more"
@@ -18,7 +17,7 @@ gallery: "Image gallery"
 
 about:
   title: "Global response services"
-  description:  "The Federation Disaster Response system has been developed for any emergency or disaster situation that requires a response to which a Delegation or National Society cannot respond alone. Response components are designed to fill the temporary gap or overload of existing services caused by the situation."
+  description:  "We strive  to ensure that a well-functioning, relevant global disaster management system is in place to address the needs of vulnerable people affected by disasters and crises, by working as part of an effective global disaster management team to promote IFRC-wide tools and capacities for disaster and crises in the areas of response preparedness and contingency planning, disaster needs assessment, relief to recovery planning, the scaled-up use of cash in emergencies and global surge capacity systems. This IFRC catalogue of Emergency Services is a guide to the emergency response services we provide globally in disaster and crisis."
 
 #############
 ## SECTORS ##
@@ -40,7 +39,14 @@ basecamp:
   title: "Basecamp"
 
 cash:
-  title: "Cash-Based Intervention (CBI)"    
+  title: "Cash-Based Intervention (CBI)"  
+  resources:
+    - name: Cash in Emergencies Toolkit
+      description: "The toolkit should inform and guide the implementation of cash programming, to improve the quality at the different phases of the project cycle."
+      link: "http://rcmcash.org" 
+    - name: Cash Hub
+      description: "A platform for the International Red Cross and Red Crescent Movement about cash as a tool for humanitarian assistance."
+      link: "http://cash-hub.org"  
 
 cea:
   title: "Community Engagement and Accountability (CEA)"
@@ -60,9 +66,26 @@ itt:
 
 logs:
   title: "Logistics"
+  about: "When National Societies implement humanitarian and development programmes, there is significant requirement for procurement, transportation, warehousing and handling of relief supplies. The IFRC  responds to this need by providing Logistics and Procurement Services, Fleet Services, country Level logistics services through its Logistics Procurement and Supply Chain Management (LPSCM) set up."
+  technical-framework: "IFRC Logistics Technical Competency Framework v 5 (003).pdf"
+  resources:
+    - name: "Standard products catalogue"
+      description: "Previously called Emergency Items Catalogue, this is a compilation of descriptions and specifications for standard relief items delivered to relief operations."
+      link: "https://itemscatalogue.redcross.int/"
 
 pgi:
   title: "Protection, Gender and Inclusion (PGI)"
+  resources:
+    - name: "Minimum standard commitments"
+      description: "Minimum standard commitments to gender and diversity in emergency programming."
+      link: "http://www.ifrc.org/Global/Photos/Secretariat/201505/Gender%20Diversity%20MSCs%20Emergency%20Programming%20HR3.pdf"
+    - name: "All Under One Roof"
+      description: "Disability-inclusive shelter and settlements in emergencies."
+      link: "http://www.ifrc.org/Global/Documents/Secretariat/Shelter/All-under-one-roof_EN.pdf"
+        
+
+
+
 
 relief:
   title: "Relief"

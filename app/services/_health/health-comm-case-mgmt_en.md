@@ -3,30 +3,47 @@ order: 7
 layout: service
 identifier: health-comm-case-mgmt
 type: Public Health
-title: Community Case Management of Cholera 
+title: Community Case Management of Cholera (CCMC)
 preview: ""
 lang: en
 pictures:
 ---
 
+## Capacity
+
+The purpose of the Public Health ERU CCM cholera module is to help to reduce mortality and morbidity due to cholera through early response at community level. It provides oral rehydration services at standalone Oral Rehydration Points (ORP) in communities affected by outbreaks of cholera or acute watery diarrhoea.
+
+
 ## Emergency Services
 
-Community case management of outbreaks.  Would include cholera, malaria, malnutrition.
+This module provides oral rehydration solution and zinc at oral rehydration points in communities which have reported cases of acute watery diarrhoea. This service is scalable to be able to expand and or move to respond to changing epidemic dynamics. The ORP functions as a first aid point for people suffering from potential cholera or acute watery diarrhoea, and advises severely ill people to seek medical care. Hygiene and health messages will be provided at ORPs. Each ORP systematically collects and reports data for monitoring, analysis and operational decision making. One ORP kit can produce enough water each day to provide ORS to approximately 35 people per day at the site. The CCMC module provides volunteer management and supervision for this activity, which is carried out by trained volunteers and staff in affected communities.
+
+## Designed for
+
+A public health ERU CCMC module should be considered for deployment very early when there is risk of or existing AWD outbreak, where the HNS requires support in order to reach affected communities with ORP services. Unit can be deployed within  48 hours upon receiving a deployment request, is self-sufficient for 1 month and can operate for up to 4 months.
 
 ## Personnel
 
-**Total:** Typically 5-6 people
+**Total:** 7 people
 
-**Composition:** A team leader, clinician, epidemiologist, logistician, finance, admin, PSS, nutritionist (depending on context).
+**Composition:** Team Leader, Public Health / Epidemiologist, Quality control/training x 2, WASH, Logistics, and Finance/Admin
 
 ## Standard components
 
-- ORP kit / Nutrition screening kit/ medicines as needed
-- Hygiene promotion kit 
+- ORP kits (quantity as requested)
+- Field accommodation preferred
+- Training kit 
 - Digital Data gathering kit 
-- Health post kit (optional)
 - Vehicles (rent or supply) 
 
 ## Specifications
 
+**Weight:** 1090 kg per 6 ORPs
+
+**Volume:** 3 pallets per 6 ORPs
+
 **National societies providing this service:** Swiss
+
+## Variation on configuration
+
+Number of ORPs and kits required to be scaled based on population and geography affected by outbreak.

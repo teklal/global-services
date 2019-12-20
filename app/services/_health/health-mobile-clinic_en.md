@@ -7,6 +7,9 @@ title: Emergency Mobile Clinic
 preview: "Day time services with supplies for 1 month, before replenishment needed, and operational for up to 4 months."
 lang: en
 pictures:
+- file: /health/health-mobile-clinic_01.jpg
+  thumb: /health/health-mobile-clinic_01_thumb.jpg
+  caption: ""
 ---
 
 ## Capacity

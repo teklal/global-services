@@ -7,6 +7,24 @@ title: ERU RCEH - EMT Type 2
 preview: "24 hour clinical services for 100-200 outpatients/day, and 1 operating theatre."
 lang: en
 pictures:
+- file: /health/health-emt2_01.jpg
+  thumb: /health/health-emt2_01_thumb.jpg
+  caption: "Ormoc, Philippines - Typhoon Haiyan, 1 Dec 2013"
+- file: /health/health-emt2_02.jpg
+  thumb: /health/health-emt2_02_thumb.jpg
+  caption: "NS staff in the operating theatre"
+- file: /health/health-emt2_03.jpg
+  thumb: /health/health-emt2_03_thumb.jpg
+  caption: ""
+- file: /health/health-emt2_04.jpg
+  thumb: /health/health-emt2_04_thumb.jpg
+  caption: "RCRC Hospital in Haiti"
+- file: /health/health-emt2_05.jpg
+  thumb: /health/health-emt2_05_thumb.jpg
+  caption: "RCRC Hospital in India"
+- file: /health/health-emt2_06.jpg
+  thumb: /health/health-emt2_06_thumb.jpg
+  caption: "RCRC Hospital"
 ---
 
 ## Capacity

@@ -7,6 +7,36 @@ title: ERU Relief
 preview: ""
 lang: en
 pictures:
+- file: /relief/relief-eru_01.jpg
+  thumb: /relief/relief-eru_01_thumb.jpg
+  caption: ""
+- file: /relief/relief-eru_02.jpg
+  thumb: /relief/relief-eru_02_thumb.jpg
+  caption: ""
+- file: /relief/relief-eru_03.jpg
+  thumb: /relief/relief-eru_03_thumb.jpg
+  caption: ""
+- file: /relief/relief-eru_04.jpg
+  thumb: /relief/relief-eru_04_thumb.jpg
+  caption: ""
+- file: /relief/relief-eru_05.jpg
+  thumb: /relief/relief-eru_05_thumb.jpg
+  caption: ""
+- file: /relief/relief-eru_06.jpg
+  thumb: /relief/relief-eru_06_thumb.jpg
+  caption: ""
+- file: /relief/relief-eru_07.jpg
+  thumb: /relief/relief-eru_07_thumb.jpg
+  caption: ""
+- file: /relief/relief-eru_08.jpg
+  thumb: /relief/relief-eru_08_thumb.jpg
+  caption: ""
+- file: /relief/relief-eru_09.jpg
+  thumb: /relief/relief-eru_09_thumb.jpg
+  caption: ""
+- file: /relief/relief-eru_10.jpg
+  thumb: /relief/relief-eru_10_thumb.jpg
+  caption: ""
 ---
 
 ## Capacity
