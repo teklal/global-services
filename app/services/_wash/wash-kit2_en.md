@@ -7,9 +7,9 @@ title: Kit 2
 preview: "Water treatment at household level for 2,000 people."
 lang: en
 pictures:
-  - file: /wash/wash-kit2_01.jpg
-    thumb: /wash/wash-kit2_01_thumb.jpg
-    caption: WASH Kit 2
+- file: /wash/wash-kit2_01.jpg
+  thumb: /wash/wash-kit2_01_thumb.jpg
+  caption: WASH Kit 2
 ---
 
 ## Capacity

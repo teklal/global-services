@@ -64,6 +64,12 @@ collections:
       url: "/itt/"
     es: 
       url: "/es/itt/"
+  livelihood:
+    output: true
+    en: 
+      url: "/livelihood/"
+    es: 
+      url: "/es/livelihood/"
   logs:
     output: true
     en: 

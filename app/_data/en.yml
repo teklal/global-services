@@ -63,7 +63,15 @@ im:
 
 itt:
   title: "Information Technology & Telecoms (IT/T)"
-
+  
+livelihood:
+  title: "Food security and livelihood"
+  about: ""
+  resources:
+    - name: "Livelihoods Resource Centre trainings"
+      description: "A number of standard training packages exist and can be taught by the Livelihoods Resource Centre (face-to-face or online)"
+      link: "http://www.livelihoodscentre.org/list-training"
+      
 logs:
   title: "Logistics"
   about: "When National Societies implement humanitarian and development programmes, there is significant requirement for procurement, transportation, warehousing and handling of relief supplies. The IFRC  responds to this need by providing Logistics and Procurement Services, Fleet Services, country Level logistics services through its Logistics Procurement and Supply Chain Management (LPSCM) set up."
