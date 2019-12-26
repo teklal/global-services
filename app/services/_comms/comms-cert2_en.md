@@ -6,7 +6,16 @@ type: Rapid Response
 title: Communications Emergency Response Tool (CERT) 2
 preview: ""
 lang: en
-
+pictures:
+- file: /comms/comms-comms_01.jpg
+  thumb: /comms/comms-comms_01_thumb.jpg
+  caption: ""
+- file: /comms/comms-comms_02.jpg
+  thumb: /comms/comms-comms_02_thumb.jpg
+  caption: ""
+- file: /comms/comms-comms_03.jpg
+  thumb: /comms/comms-comms_03_thumb.jpg
+  caption: ""
 ---
 
 ## Capacity

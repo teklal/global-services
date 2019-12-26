@@ -7,6 +7,21 @@ title: Community Engagement and Accountability
 preview: ""
 lang: en
 pictures:
+- file: /cea/cea-cea_01.jpg
+  thumb: /cea/cea-cea_01_thumb.jpg
+  caption: ""
+- file: /cea/cea-cea_02.jpg
+  thumb: /cea/cea-cea_02_thumb.jpg
+  caption: ""
+- file: /cea/cea-cea_03.jpg
+  thumb: /cea/cea-cea_03_thumb.jpg
+  caption: ""
+- file: /cea/cea-cea_04.jpg
+  thumb: /cea/cea-cea_04_thumb.jpg
+  caption: ""
+- file: /cea/cea-cea_05.jpg
+  thumb: /cea/cea-cea_05_thumb.jpg
+  caption: ""
 ---
 
 ## Capacity

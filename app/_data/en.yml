@@ -53,6 +53,7 @@ cea:
 
 comms:
   title: "Communications"
+  about: "Together with its member National Societies, the IFRC has developed a network of skilled communications professionals to provide management, strategic and technical support and advice to emergency operations, from rapid onset disasters to protracted crises in various contexts. Through our global coordination system, our communications specialists are able to reach millions of people and diverse audiences globally using a wide-range of communication channels."
 
 health:
   title: "Health"
@@ -90,19 +91,17 @@ pgi:
     - name: "All Under One Roof"
       description: "Disability-inclusive shelter and settlements in emergencies."
       link: "http://www.ifrc.org/Global/Documents/Secretariat/Shelter/All-under-one-roof_EN.pdf"
-        
-
-
-
 
 relief:
   title: "Relief"
 
 security:
   title: "Security"
+  about: "The IFRC provides security management support to any Movement partner requesting IFRC security support in operational contexts where the IFRC has the required capacity and the country office is deemed to be in compliance with the IFRC Minimum Security Requirements. The services are detailed within the 'IFRC security management support to Movement partners' procedures and are based upon 4 Levels of security coverage, depending on the modality of service requests. Movement partners can contact relevant IFRC Regional or Country offices for further information."
 
 shelter:
-  title: "Shelter"  
+  title: "Shelter" 
+  about: "The IFRC and its member National Societies have built a network of Shelter & Settlements  expertise to respond (individually or as a team) in case of need after a disaster on support to National Societies. This support can be provided to develop, coordinate and implement the Shelter component of the overall strategy of the Red Cross in response to the needs created by the impact of a disaster. But also to support the inter-agency coordination structure in place for the shelter sector to ensure that core services are provided to shelter agencies for an efficient humanitarian shelter response to the affected population on support of the government."
 
 wash:
   title: "Water, sanitation, and hygiene (WASH)"

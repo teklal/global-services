@@ -88,6 +88,7 @@ Copy the images into a temporary folder and use a batch renaming utility, I like
 ```
 mogrify -format jpg -resize 1200x1200\> *
 ```
+Delete the old file format version of any duplicates created by saving as `jpg`.
 
 Make a copy of all the images in the same folder and use the batch renaming utility to append an `_thumb` to the end of all the files. On OSX, the copy/paste will make duplicate files that names such as `assessment-cell_01 copy.jpg` and you can use NameChanger's "Replace First Occurrence With" to replace " copy" with "\_thumb". To resize the thumbnails run:
 ```

@@ -7,6 +7,21 @@ title: "ERU Base Camp - small"
 preview: "Accommodation up to 10 persons."
 lang: en
 pictures:
+- file: /basecamp/basecamp-basecamp_01.jpg
+  thumb: /basecamp/basecamp-basecamp_01_thumb.jpg
+  caption: ""
+- file: /basecamp/basecamp-basecamp_02.jpg
+  thumb: /basecamp/basecamp-basecamp_02_thumb.jpg
+  caption: ""
+- file: /basecamp/basecamp-basecamp_03.jpg
+  thumb: /basecamp/basecamp-basecamp_03_thumb.jpg
+  caption: ""
+- file: /basecamp/basecamp-basecamp_04.jpg
+  thumb: /basecamp/basecamp-basecamp_04_thumb.jpg
+  caption: ""
+- file: /basecamp/basecamp-basecamp_05.jpg
+  thumb: /basecamp/basecamp-basecamp_05_thumb.jpg
+  caption: ""
 ---
 
 ## Capacity
