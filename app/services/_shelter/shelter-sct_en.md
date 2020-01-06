@@ -9,7 +9,7 @@ lang: en
 pictures:
 - file: /shelter/shelter-sct_01.jpg
   thumb: /shelter/shelter-sct_01_thumb.jpg
-  caption: ""
+  caption: "East Cameroon, May 2014 - With civil unrest continuing to cause an upheaval in people's daily routines in the Central African Republic, neighbouring Cameroon has become a haven for tens of thousands of men, women and children seeking safety. Supported by IFRC through an emergency appeal, the Cameroon Red Cross Society has deployed a large number of volunteers who provide diversified and substantial assistance to families affected by the on-going crisis."
 - file: /shelter/shelter-sct_02.jpg
   thumb: /shelter/shelter-sct_02_thumb.jpg
   caption: "Petit Goave Meeting, June 2010"
@@ -18,7 +18,7 @@ pictures:
   caption: "SCT Philippines"
 - file: /shelter/shelter-sct_04.jpg
   thumb: /shelter/shelter-sct_04_thumb.jpg
-  caption: "Shelter Cluster Meeting, Haiti, March 2010"
+  caption: "Shelter Cluster Coordination Meeting at OSOCC Tent, Haiti, 9 March 2010"
 ---
 
 ## Capacity
@@ -33,13 +33,13 @@ The SCT is a flexible coordination mechanism. Its composition varies depending o
 
 ## Designed for
 
-- **Supporting service delivery:** coordination management, information management, integration of other sectors
-- **Informing Humanitarian Coordinator and Humanitarian Country Team strategic decision making:** coordinated assessments
-- **Planning and strategy development:** strategic planning, technical coordination, recovery guidance, resource mobilization
-- **Advocacy:** coordinated communications and advocacy, government liaison, legal and regulatory issues
-- **Monitoring and reporting:** performance monitoring
-- **Contingency planning and preparedness:** contingency planning, exit strategy
-- **Accountability to affected population:** community liaison / AAP
+- **Supporting service delivery:** coordination management, information management, integration of other sectors.
+- **Informing Humanitarian Coordinator and Humanitarian Country Team strategic decision making:** coordinated assessments.
+- **Planning and strategy development:** strategic planning, technical coordination, recovery guidance, resource mobilization.
+- **Advocacy:** coordinated communications and advocacy, government liaison, legal and regulatory issues.
+- **Monitoring and reporting:** performance monitoring.
+- **Contingency planning and preparedness:** contingency planning, exit strategy.
+- **Accountability to affected population:** community liaison / AAP.
 
 ## Personnel
 

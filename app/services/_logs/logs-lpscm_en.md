@@ -7,39 +7,6 @@ title: LPSCM for National Societies
 preview: "Logistics Procurement and Supply Chain Management (LPSCM) Services for National Societies"
 lang: en
 pictures:
-- file: /logs/logs_01.jpg
-  thumb: /logs/logs_01_thumb.jpg
-  caption: "Panama warehouse"
-- file: /logs/logs_02.jpg
-  thumb: /logs/logs_02_thumb.jpg
-  caption: "Panama warehouse"
-- file: /logs/logs_03.jpg
-  thumb: /logs/logs_03_thumb.jpg
-  caption: ""
-- file: /logs/logs_04.jpg
-  thumb: /logs/logs_04_thumb.jpg
-  caption: ""
-- file: /logs/logs_05.jpg
-  thumb: /logs/logs_05_thumb.jpg
-  caption: ""
-- file: /logs/logs_06.jpg
-  thumb: /logs/logs_06_thumb.jpg
-  caption: ""
-- file: /logs/logs_07.jpg
-  thumb: /logs/logs_07_thumb.jpg
-  caption: ""
-- file: /logs/logs_08.jpg
-  thumb: /logs/logs_08_thumb.jpg
-  caption: ""
-- file: /logs/logs_09.jpg
-  thumb: /logs/logs_09_thumb.jpg
-  caption: ""
-- file: /logs/logs_10.jpg
-  thumb: /logs/logs_10_thumb.jpg
-  caption: ""
-- file: /logs/logs_11.jpg
-  thumb: /logs/logs_11_thumb.jpg
-  caption: ""
 ---
 
 ## Capacity
@@ -52,13 +19,13 @@ Through its global logistics network and structures, the LPSCM has the capacity 
 
 ## Emergency Services
 
-1.	Mobilization of relief supplies
-2.	Procurement and transportation
-3.	Procurement Process Quality Assurance
-4.	Fleet services
-5.	Warehousing and handling
-6.	Contingency Stock
-7.	Specialized logistics support
+-	Mobilization of relief supplies.
+-	Procurement and transportation.
+-	Procurement Process Quality Assurance.
+-	Fleet services.
+-	Warehousing and handling.
+-	Contingency Stock.
+-	Specialized logistics support.
 
 ## Designed for
 
@@ -74,11 +41,10 @@ Through its global logistics network and structures, the LPSCM has the capacity 
 - **Procurement process quality assurance:** This service provides accountability to donors and beneficiaries, ensures value for money and contributes to the prevention of fraud and corruption.
 Procurement process quality assurance is undertaken by LPSCM to support domestic procurement for an IFRC humanitarian and development programme where there is either: (1) a competent procurement specialist within the IFRC country office or (2) a competent National Society able to undertake procurement in compliance with donor requirements. In cases where the value of a procurement order exceeds CHF 50,000 or the procurement involves material that is unusual from a legal or reputational perspective, or it incurs financial risk to the IFRC, the file goes through a procurement process quality assurance review prior to the signing of the purchase order or contract.  
 
-
 - **Fleet services:** Vehicle Rental Programme, fleet management training and fleet development activities are delivered by the IFRC Global Fleet Unit to the IFRC’s country clusters/offices and National Societies around the world.
 
 - **Warehousing and handling:** LPSCM provides warehousing and handling services to National Societies. Warehousing and handling services to IFRC humanitarian and development programmes funded by donors, and implemented in support to National Societies include receipt, warehousing, and dispatch. National Societies who wish to stock humanitarian and development supplies can use the IFRC warehouses in Dubai, Kuala Lumpur, Panama and Las Palmas.
- 
+
 - **Contingency stock:** In cooperation with partner National Societies and support of donors the LPSCM has emergency response stockpiles sufficient to meet the needs of 450,000 people. The emergency stockpiles are strategically positioned in a global network of regional Operational LPSCM Hub and Units, located in Dubai, Kuala Lumpur, Panama and Las Palmas. The strategic pre-positioning of emergency supplies allows the IFRC to deliver aid to people in need faster, and at minimum cost.
 
 -	**Specialized logistics support:** LPSCM provides a wide range of services to National Societies, including logistics training, logistics assessments and in-country supply chain set-up.

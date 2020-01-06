@@ -36,17 +36,17 @@ Water treatment and distribution for 15,000 people for a maximum of 4 months acc
 
 ## Emergency Services
 
-1. Treatment (including filtration) and distribution of water up to 225,000 litres a day for a population of 15,000 people.
-2. Storage capacity of a maximum of 200,000 litres a day.
-3. Basic sanitation for up to 5,000 people.   
-4. Distribution and trucking capacity for transport of treated water to dispersed populations, capacity of up to 75,000 litres a day.
+- Treatment (including filtration) and distribution of water up to 225,000 litres a day for a population of 15,000 people.
+- Storage capacity of a maximum of 200,000 litres a day.
+- Basic sanitation for up to 5,000 people.
+- Distribution and trucking capacity for transport of treated water to dispersed populations, capacity of up to 75,000 litres a day.
 
 ## Designed for
 
-1. Response to scattered populations, with a flexible approach due to a number of smaller treatment units, which can be split and set up as stand-alone units in different locations.
-2. Availability of local water sources is required.
-3. Possibility to set up nine different storage and distribution points. Preconditions are availability of flatbed trucks, fuel, road access.
-4. Water treatment lines (catchment, filtration, chlorination, distribution, and delivery) are mobile and the number might vary from 3 to 5 (production from 45,000 to 75,000 liters/day).
+- Response to scattered populations, with a flexible approach due to a number of smaller treatment units, which can be split and set up as stand-alone units in different locations.
+- Availability of local water sources is required.
+- Possibility to set up nine different storage and distribution points. Preconditions are availability of flatbed trucks, fuel, road access.
+- Water treatment lines (catchment, filtration, chlorination, distribution, and delivery) are mobile and the number might vary from 3 to 5 (production from 45,000 to 75,000 liters/day).
 
 ## Personnel
 

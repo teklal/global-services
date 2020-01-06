@@ -27,7 +27,7 @@ When no technical delegate is deployed, remote technical support (to NS or IFRC 
 
 In emergencies, priority is to identify the impact in terms of food and basic needs, identify main sources of food and income before the disaster and coping strategies to:
 
-- Respond to immediate needs for food and basic needs assistance but also, 
+- Respond to immediate needs for food and basic needs assistance. 
 - Prevent further deterioration of the situation by identifying risks related to further depletion of household personal / productive assets and negative coping strategies. 
 - Set a conducive environment to promote recovery of economic activities and food production for sustainable impact on individual, households and communities.
 
@@ -38,13 +38,13 @@ Data collection from main market stakeholders is also necessary to ensure that t
 Livelihoods recovery starting with replacement of assets but also strengthening through capacity building should also be included in the response strategy to phase out emergency assistance as soon as possible. 
 
 Other tasks include:
-- Draft of Emergency Appeals / Emergency Plan of Action, budgeting
-- Design of response options need to be gender-sensitive and inclusive
-- Draft SOPs for quality selection and implementation of holistic Food security and livelihoods responses 
-- Capacity strengthening in Food assistance, basic needs and livelihoods
-- Procurement / distribution of food, seeds, tools, livestock or other assets in emergencies
-- Strong understanding of Cash and voucher assistance
-- Coordination within the RCRC movement and other coordination mechanism specific to FSL (Food security cluster, Early Recovery Working groups)  
+- Draft of Emergency Appeals / Emergency Plan of Action, budgeting.
+- Design of response options need to be gender-sensitive and inclusive.
+- Draft SOPs for quality selection and implementation of holistic Food security and livelihoods responses.
+- Capacity strengthening in Food assistance, basic needs and livelihoods.
+- Procurement / distribution of food, seeds, tools, livestock or other assets in emergencies.
+- Strong understanding of Cash and voucher assistance.
+- Coordination within the RCRC movement and other coordination mechanism specific to FSL (Food security cluster, Early Recovery Working groups).
 
 ## Personnel
 
@@ -52,4 +52,4 @@ Ideally a team of several. Can be 1 person or a team with several members with 3
 
 ## Specifications
 
-**National societies providing this service:** IFRC Livelihoods Resource Centre/Spanish RC (Staff, Technical assistance, training), British RC and Swedish RC have FSL specialists in their Surge roster
+**National societies providing this service:** IFRC Livelihoods Resource Centre/Spanish RC (Staff, Technical assistance, training), British RC and Swedish RC have FSL specialists in their Surge roster.

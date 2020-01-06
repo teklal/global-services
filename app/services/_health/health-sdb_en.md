@@ -9,6 +9,8 @@ lang: en
 pictures:
 ---
 
+##### _**(Under development for 2021)**_
+
 ## Capacity
 
 Establishment of safe and culturally appropriate approaches to burials for outbreaks of hemorrhagic fevers (e.g. Ebola, Marburg) and other high impact diseases with a significant risk of post-mortem transmission.
@@ -19,9 +21,9 @@ Design of SDB system, including alert, response and data management, for rapid i
 
 ## Personnel
 
-**Total:** Typically 5-6 people
+**Total:** Typically 5-6 people.
 
-**Composition:** Team leader, educator/trainer, logistician, PSS, IPC/WASH, finance/admin
+**Composition:** Team leader, educator/trainer, logistician, PSS, IPC/WASH, finance/admin.
 
 ## Standard components
 

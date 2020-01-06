@@ -41,18 +41,18 @@ Sanitation facilities and hygiene promotion for 20,000 people for a maximum of 4
 
 Integrated response through:
 
-1. Hygiene promotion (including community mobilization, hygiene education, and operation and maintenance)
-2. Basic sanitation facilities (including latrines, vector control and solid waste disposal) for up to 20,000)
+- Hygiene promotion (including community mobilization, hygiene education, and operation and maintenance).
+- Basic sanitation facilities (including latrines, vector control and solid waste disposal) for up to 20,000).
 
 ## Designed for
 
-1. Situations where bad hygiene is consistently practiced by affected people, where there is the danger of diarrhoea, cholera, and other disease outbreaks will persist.
+- Situations where bad hygiene is consistently practiced by affected people, where there is the danger of diarrhoea, cholera, and other disease outbreaks will persist.
 
 ## Personnel
 
-**Total:** 5-6 people
+**Total:** 5-6 people.
 
-**Compostion:** Team Leader, 1-2 Sanitation Engineer, 1 Hygiene promoter, 1 Logistic/Admin/Finance
+**Compostion:** Team Leader, 1-2 Sanitation Engineer, 1 Hygiene promoter, 1 Logistic/Admin/Finance.
 
 _In addition to the above team, local staff is normally contracted to assist in the construction of the sanitation facilities (masons, builders supervisors, etc)._
 
@@ -64,4 +64,4 @@ _In addition to the above team, local staff is normally contracted to assist in 
 
 **Cost (indicative):** CHF 200,000
 
-**National societies providing this service:** Austrian, British, German, Spanish, Swedish
+**National societies providing this service:** Austrian, British, German, Spanish, Swedish.

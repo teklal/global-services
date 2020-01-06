@@ -9,26 +9,26 @@ lang: en
 pictures:
 - file: /comms/comms-comms_01.jpg
   thumb: /comms/comms-comms_01_thumb.jpg
-  caption: ""
+  caption: "June 27, 2019. Cox's Bazar, Bangladesh. \"We go door-to-door giving people information about what to do if a storm hits,\" says Nurjahan (center) a cyclone preparedness volunteer in Cox's Bazar, Bangladesh."
 - file: /comms/comms-comms_02.jpg
   thumb: /comms/comms-comms_02_thumb.jpg
-  caption: ""
+  caption: "Gennike Mayers, communications delegate at the IFRC is interviewing 24 year old James Aloute who lives in a tent with his brothers and sisters since the earthquake. He has just received new tarpaulins from the Red Cross to be able to replace the old ones in preparation for the hurricanes."
 - file: /comms/comms-comms_03.jpg
   thumb: /comms/comms-comms_03_thumb.jpg
-  caption: ""
+  caption: "FACT Team leader doing a live interview on the situation for BBC."
 ---
 
 ## Capacity
 
 Rapid deployment of communications professionals at the outset of and during a disaster or emergency can support IFRC and its members to:
 
-- Shape the public story and seize the immediate media opportunity in the first 24-72 hours following an emergency (or 24-36 hours prior to an imminent disaster)
-- Raise funds for appeals
-- Protect against reputational criticisms of inaction that invariably follow any emergency response
-- Provide first-hand information and analysis on disaster and crisis situations (including for international media and content generation)
-- Communication with affected communities – share life-saving information and support delivery of better services 
-- Influence partners and decision makers  - advocacy on behalf of affected communities
-- Profile the work of the Red Cross and Red Crescent - create a better understanding of what we do, gain trust and generate more support 
+- Shape the public story and seize the immediate media opportunity in the first 24-72 hours following an emergency (or 24-36 hours prior to an imminent disaster).
+- Raise funds for appeals.
+- Protect against reputational criticisms of inaction that invariably follow any emergency response.
+- Provide first-hand information and analysis on disaster and crisis situations (including for international media and content generation).
+- Communication with affected communities – share life-saving information and support delivery of better services. 
+- Influence partners and decision makers  - advocacy on behalf of affected communities.
+- Profile the work of the Red Cross and Red Crescent - create a better understanding of what we do, gain trust and generate more support.
 
 ## Emergency Services
 
@@ -36,23 +36,23 @@ Rapid deployment (within 36 hours upon receiving a deployment request) of suitab
 
 The CERT1 team will provide technical support and advice to the operations, host National Society and member National Societies on the ground with the aim of highlighting the needs of  affected people, the work of the Red Cross Red Crescent in responding to these needs, and advocating for increased action to address vulnerabilities and unmet humanitarian needs. The focus of this CERT team will be on: 
 
-- Communications capacity and needs assessment, planning and implementing communications strategies
-- Identifying the editorial narrative/messaging according to the news cycle and disaster response/management cycle
-- International media engagement, including coordinating requests and fielding interviews 
-- Audiovisual and written content production
-- Supporting social media engagement, monitoring and scanning 
-- Supporting fundraising efforts 
+- Communications capacity and needs assessment, planning and implementing communications strategies.
+- Identifying the editorial narrative/messaging according to the news cycle and disaster response/management cycle.
+- International media engagement, including coordinating requests and fielding interviews.
+- Audiovisual and written content production.
+- Supporting social media engagement, monitoring and scanning.
+- Supporting fundraising efforts. 
 
 ## Designed for
 
-- Small to medium scale emergencies (yellow/ orange) in a low to moderate complexity context with high level of regional/ international media attention and global public interest 
-- Slow onset emergencies and public health emergencies (infectious disease outbreaks)
+- Small to medium scale emergencies (yellow/ orange) in a low to moderate complexity context with high level of regional/ international media attention and global public interest. 
+- Slow onset emergencies and public health emergencies (infectious disease outbreaks).
 
 ## Personnel
 
-**Total:** 1-2 person team 
+**Total:** 1-2 person team.
 
-**Composition:** 1x Communications coordinator and/or 1x AV Officer
+**Composition:** 1x Communications coordinator and/or 1x AV Officer.
 
 ## Standard components
 

@@ -12,9 +12,11 @@ pictures:
   caption: "ORP in Somaliland"
 ---
 
+##### _**(Under development for 2021)**_
+
 ## Capacity
 
-UNDER DEVELOPMENT
+Under development.
 
 ## Emergency Services
 

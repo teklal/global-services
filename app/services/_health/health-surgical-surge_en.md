@@ -25,7 +25,7 @@ Designed for the provision of surgical services to augment trauma/surgical care 
 
 ## Personnel
 
-**Total:** Typically 5 people from sending NS + 30-45 local staff
+**Total:** Typically 5 people from sending NS + 30-45 local staff.
 
 **Composition:** Deployed team includes surgeon, anesthetist, operating theater nurse(s), and ward nurse(s). In addition to deployed team, local health care professionals are integrated into unit as soon as possible with the aim of reaching or exceeding the following ratios: anesthetic technician/ anesthetist ratio 1:1 with surgeons, 5 OR technical staff per OT table, nursing ratio of at least 1 nurse: 8 ward beds (24 hour services).
 
@@ -33,11 +33,11 @@ Designed for the provision of surgical services to augment trauma/surgical care 
 
 Specific module names and components may vary but generally include the following:
 
-- **Surgical Module:** contains the equipment/materials needed to safely provide perioperative care for approximately 10 major surgical cases per day for one month or 300 surgical cases before re-supply is needed; includes operating table, basic patient monitoring equipment, surgical lighting, suction equipment, anesthesia machine and supplies, oxygen concentrators, and related items
-- **Sterilization Module:** contains equipment and supplies needed to implement the safe reprocessing and sterilization of reusable medical items and surgical instruments; contains a full surgical 90L autoclave with traceability with written protocols/guidelines for its use, and supplies for 1-month of operation before replenishment is needed. 
-- **Laboratory Module:** contains equipment and supplies needed to manage a minimum diagnostic capacity that goes beyond point-of-care or rapid tests; includes capacity to implement a walking blood bank including the supplies needed to test whole blood for HIV, Hep B, Hep C and syphilis (and malaria for areas where endemic) prior to administration
-- **Pharmaceutical and Medical Consumables Module(s):** contains the medications and medical consumables needed to safely provide perioperative care for approximately 10 major surgical cases per day for one month or 300 surgical cases before re-supply is needed; items similar to those found in the ICRC 50WW kit 
-- **Waste Management Module:** contains the equipment and materials needed for the safe management of medical waste in a low-resource setting; includes a portable incinerator
+- **Surgical Module:** Contains the equipment/materials needed to safely provide perioperative care for approximately 10 major surgical cases per day for one month or 300 surgical cases before re-supply is needed; includes operating table, basic patient monitoring equipment, surgical lighting, suction equipment, anesthesia machine and supplies, oxygen concentrators, and related items.
+- **Sterilization Module:** Contains equipment and supplies needed to implement the safe reprocessing and sterilization of reusable medical items and surgical instruments; contains a full surgical 90L autoclave with traceability with written protocols/guidelines for its use, and supplies for 1-month of operation before replenishment is needed.
+- **Laboratory Module:** Contains equipment and supplies needed to manage a minimum diagnostic capacity that goes beyond point-of-care or rapid tests; includes capacity to implement a walking blood bank including the supplies needed to test whole blood for HIV, Hep B, Hep C and syphilis (and malaria for areas where endemic) prior to administration.
+- **Pharmaceutical and Medical Consumables Module(s):** Contains the medications and medical consumables needed to safely provide perioperative care for approximately 10 major surgical cases per day for one month or 300 surgical cases before re-supply is needed; items similar to those found in the ICRC 50WW kit.
+- **Waste Management Module:** Contains the equipment and materials needed for the safe management of medical waste in a low-resource setting; includes a portable incinerator.
 
 
 ## Specifications
@@ -52,6 +52,6 @@ Specific module names and components may vary but generally include the followin
 
 ## Variation on configuration
 
-- 110v or 230v configuration
-- With or without heating/cooling
-- Can deploy specific stand-alone modules
+- 110v or 230v configuration.
+- With or without heating/cooling.
+- Can deploy specific stand-alone modules.

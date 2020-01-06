@@ -9,6 +9,8 @@ lang: en
 pictures:
 ---
 
+##### _**(To be ready by end of 2020)**_
+
 ## Capacity
 
 The purpose Public Health ERU CBS is to reduce the loss of lives by preventing or contributing to reduction of disease outbreaks or potential disease outbreaks or their negative impacts in sudden-onset disasters, protracted crisis or health emergencies/outbreaks, where there is a defined need for surveillance of health risks or events. PH ERU CBS establish a CBS system for detecting and reporting of events of public health significance within a community by community members, to strengthen the response during an emergency.
@@ -23,11 +25,11 @@ A public health ERU CBS module should be considered for deployment very early wh
 
 ## Personnel
 
-**Total:** 2 people (advanced), 5-6 people (full deployment)
+**Total:** 2 people (advanced), 5-6 people (full deployment).
 
-**Composition (advanced team):** Team lead, field epidemiologist or data/information manager
+**Composition (advanced team):** Team lead, field epidemiologist or data/information manager.
 
-**Composition (full deployment):** Team lead, field epidemiologist or data/information manager, public health, ICT and/or logistics, finance/admin
+**Composition (full deployment):** Team lead, field epidemiologist or data/information manager, public health, ICT and/or logistics, finance/admin.
 
 _An advanced CBS assessment team can be deployed for 1-2 weeks within  48 hours upon receiving a deployment request. If the assessment team determines that implementation of a CBS system is feasible, the remaining team members and equipment are deployed._ 
 

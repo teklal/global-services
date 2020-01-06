@@ -9,9 +9,11 @@ lang: en
 pictures:
 ---
 
+##### _**(Under development for 2021)**_
+
 ## Capacity
 
-The IPC configuration of the PH ERU will support and strengthen existing health facilities in their capacity to continue essential health services in a safe manner during disease outbreaks, with a focus on infection prevention and control. Primarily to prevent  health care facilities from spreading infectious agents and secondarily to enable the health facilities to continue their activities in a safer manner for staff and patients and therewith reduce morbidity and mortality affecting  communities experiencing or at risk of epidemics. (UNDER DEVELOPMENT 2020)
+The IPC configuration of the PH ERU will support and strengthen existing health facilities in their capacity to continue essential health services in a safe manner during disease outbreaks, with a focus on infection prevention and control. Primarily to prevent  health care facilities from spreading infectious agents and secondarily to enable the health facilities to continue their activities in a safer manner for staff and patients and therewith reduce morbidity and mortality affecting  communities experiencing or at risk of epidemics.
 
 ## Emergency Services
 
@@ -23,7 +25,7 @@ Unit can be deployed within  48 hours upon receiving a deployment request, is se
 
 ## Personnel
 
-**Total:** Typically 5-6 people
+**Total:** Typically 5-6 people.
 
 **Composition:** A Team Leader, clinical trainer (IPC specialist), WASH (hardware), logistician, finance admin, community engagement/social and behaviour change communication.
 

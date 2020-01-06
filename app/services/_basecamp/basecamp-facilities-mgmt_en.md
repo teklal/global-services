@@ -11,13 +11,13 @@ pictures:
 
 ## Emergency Services
 
-1. Can facilitate all aspects of facility management with a mix of buildings (if available), tents and local equipment.
-2. Can help locate suitable buildings (empty building, housing complex or a hotel that can be rented) for accommodation or offices and transition it into a field hotel, office area or operation center.
+- Can facilitate all aspects of facility management with a mix of buildings (if available), tents and local equipment.
+- Can help locate suitable buildings (empty building, housing complex or a hotel that can be rented) for accommodation or offices and transition it into a field hotel, office area or operation center.
 
 ## Designed for
 
-1. Slow unset disasters
-2. Disasters where infrastructure has not been seriously damaged
+- Slow unset disasters.
+- Disasters where infrastructure has not been seriously damaged.
 
 ## Personnel
 

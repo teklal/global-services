@@ -1,13 +1,15 @@
 ---
 order: 7
 layout: service
-identifier: health-comm-case-mgmt
+identifier: health-ccmc
 type: Public Health
 title: Community Case Management of Cholera (CCMC)
 preview: ""
 lang: en
 pictures:
 ---
+
+##### _**(To be ready by end of 2020)**_
 
 ## Capacity
 
@@ -24,9 +26,9 @@ A public health ERU CCMC module should be considered for deployment very early w
 
 ## Personnel
 
-**Total:** 7 people
+**Total:** 7 people.
 
-**Composition:** Team Leader, Public Health / Epidemiologist, Quality control/training x 2, WASH, Logistics, and Finance/Admin
+**Composition:** Team Leader, Public Health / Epidemiologist, Quality control/training x 2, WASH, Logistics, and Finance/Admin.
 
 ## Standard components
 

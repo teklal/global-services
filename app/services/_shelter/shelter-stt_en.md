@@ -10,81 +10,33 @@ pictures:
 - file: /shelter/shelter-stt_01.jpg
   thumb: /shelter/shelter-stt_01_thumb.jpg
   caption: "Build Back Safer - Bangladesh"
-- file: /shelter/shelter-stt_02.jpg
-  thumb: /shelter/shelter-stt_02_thumb.jpg
-  caption: "Build Back Safer - Bangladesh"
-- file: /shelter/shelter-stt_03.jpg
-  thumb: /shelter/shelter-stt_03_thumb.jpg
-  caption: "Build Back Safer - Philippines"
-- file: /shelter/shelter-stt_04.jpg
-  thumb: /shelter/shelter-stt_04_thumb.jpg
-  caption: "Build Back Safer - Philippines"
-- file: /shelter/shelter-stt_05.jpg
-  thumb: /shelter/shelter-stt_05_thumb.jpg
-  caption: "Build Back Safer - Philippines"
 - file: /shelter/shelter-stt_06.jpg
   thumb: /shelter/shelter-stt_06_thumb.jpg
-  caption: "Build Back Safer - Philippines"
+  caption: "Tabon Tabon, Eastern Leyte, Philippines - Over one million homes were damaged and destroyed by Typhoon Haiyan. Sensitisation sessions provide communities with practical tips including proper fixings of tarpaulins, building stronger foundations and improving bracing. Each community is also provided with flyers that cover all of the learning."
 - file: /shelter/shelter-stt_07.jpg
   thumb: /shelter/shelter-stt_07_thumb.jpg
   caption: "Focus Group Discussion - Greece"
 - file: /shelter/shelter-stt_08.jpg
   thumb: /shelter/shelter-stt_08_thumb.jpg
   caption: "PASSA - Haiti"
-- file: /shelter/shelter-stt_09.jpg
-  thumb: /shelter/shelter-stt_09_thumb.jpg
-  caption: "PASSA - Haiti"
-- file: /shelter/shelter-stt_10.jpg
-  thumb: /shelter/shelter-stt_10_thumb.jpg
-  caption: "PASSA - Haiti"
-- file: /shelter/shelter-stt_11.jpg
-  thumb: /shelter/shelter-stt_11_thumb.jpg
-  caption: "PASSA - Haiti"
 - file: /shelter/shelter-stt_12.jpg
   thumb: /shelter/shelter-stt_12_thumb.jpg
   caption: "Reconstruction - Haiti"
-- file: /shelter/shelter-stt_13.jpg
-  thumb: /shelter/shelter-stt_13_thumb.jpg
-  caption: "SCT - Philippines"
 - file: /shelter/shelter-stt_14.jpg
   thumb: /shelter/shelter-stt_14_thumb.jpg
-  caption: "Shelter kit - Myanmar"
-- file: /shelter/shelter-stt_15.jpg
-  thumb: /shelter/shelter-stt_15_thumb.jpg
-  caption: "Shelter kit - Myanmar"
+  caption: "Shelter kits, tarpaulins, and other kits for distribution at Lay Htet Gyi village, Mawlamying Gyun district, Myanmar."
 - file: /shelter/shelter-stt_16.jpg
   thumb: /shelter/shelter-stt_16_thumb.jpg
-  caption: "Temporary shelter - Uganda"
+  caption: "Dzaipi Refugee camp, Adjumani, Uganda. 16/02/2014 - A man from South Sudan is building a house in the oldest camp in Dzaipi."
 - file: /shelter/shelter-stt_17.jpg
   thumb: /shelter/shelter-stt_17_thumb.jpg
-  caption: "Temporary shelter - Zimbabwe"
-- file: /shelter/shelter-stt_18.jpg
-  thumb: /shelter/shelter-stt_18_thumb.jpg
-  caption: "Transitional shelter - Haiti"
-- file: /shelter/shelter-stt_19.jpg
-  thumb: /shelter/shelter-stt_19_thumb.jpg
-  caption: "Transitional shelter - Haiti"
-- file: /shelter/shelter-stt_20.jpg
-  thumb: /shelter/shelter-stt_20_thumb.jpg
-  caption: "Transitional shelter - Haiti"
-- file: /shelter/shelter-stt_21.jpg
-  thumb: /shelter/shelter-stt_21_thumb.jpg
-  caption: "Transitional shelter - Peru"
-- file: /shelter/shelter-stt_22.jpg
-  thumb: /shelter/shelter-stt_22_thumb.jpg
-  caption: "Transitional shelter - Peru"
+  caption: "Zimbabwe, Chingwizi, 2014 - William Banda, a Zimbabwe Red Cross volunteer helps construct shelter for flood-displaced families of the Masvingo province at Chingwizi transit camp. The camp will house 20,000 people over the next few months. Zimbabwe Red Cross is at the camp registering new arrivals, providing shelter, first aid and psychosocial support."
 - file: /shelter/shelter-stt_23.jpg
   thumb: /shelter/shelter-stt_23_thumb.jpg
-  caption: "Transitional shelter - Peru"
+  caption: "On August 15, 2007, an earthquake of great intensity caused serious damage mainly on the coast of the Ica region of Peru, thousands of buildings were destroyed or affected, thousands of families lost their homes, leaving them in the open. The activity of the Red Cross is focused on supporting the construction of temporary accommodation in rural areas where the situation is extremely vulnerable."
 - file: /shelter/shelter-stt_24.jpg
   thumb: /shelter/shelter-stt_24_thumb.jpg
-  caption: "Transitional shelter - Philippines"
-- file: /shelter/shelter-stt_25.jpg
-  thumb: /shelter/shelter-stt_25_thumb.jpg
-  caption: "Transitional shelter - Philippines"
-- file: /shelter/shelter-stt_26.jpg
-  thumb: /shelter/shelter-stt_26_thumb.jpg
-  caption: "Transitional shelter - Philippines"
+  caption: "Tanuan , Eastern Leyte, Philippines - Over one million homes were damaged and destroyed by Typhoon Haiyan. The Red Cross is targeting support mainly at families who are rebuilding their homes or making temporary shelters by providing toolkits, materials and technical advice on how to build back safer."
 ---
 
 ## Capacity
@@ -99,21 +51,21 @@ The Shelter Surge Operational Capacity is provided through individuals or a team
 
 ## Designed for
 
-- Shelter focus: Assessment and analysis of the situation/context, identification of capacities and needs (Red Cross, government/administration; different actors and affected population)
-- Design and management of shelter & settlements interventions in response to a disaster (from emergency to recovery for example site planning, technical designs, BOQ...)
-- Project feasibility studies (market analysis relevant to delivering shelter programmes as labour, rental market or technical surveys)
+- Shelter focus: Assessment and analysis of the situation/context, identification of capacities and needs (Red Cross, government/administration; different actors and affected population).
+- Design and management of shelter & settlements interventions in response to a disaster (from emergency to recovery for example site planning, technical designs, BOQ...).
+- Project feasibility studies (market analysis relevant to delivering shelter programmes as labour, rental market or technical surveys).
 - Analysis of local building practices and materials. 
-- Construction management (quality control, specific expertise during construction phases)
-- Design Safe shelter awareness sessions/materials (software component shelter intervention) for quality assurance and self-recovery (IEC materials dissemination, demonstration of key mitigation and improvements to be implemented on the shelter components during construction/repair/reinforcement...)
-- Monitoring and evaluation of humanitarian shelter and reconstruction programmes (housing/infrastructure rehabilitation, beneficiary satisfaction surveys)
-- Definition of shelter interventions considering the use of appropriate materials and technologies, innovation and energy efficiency and specification development
-- Participatory approaches for community regeneration/ upgrading
-- Identification and advocacy on overcoming regulatory barriers to the provision of shelter, including housing, land and property issues/security of tenure
-- Coordination within RCRC movement to support one movement approach and integrating programming
+- Construction management (quality control, specific expertise during construction phases).
+- Design Safe shelter awareness sessions/materials (software component shelter intervention) for quality assurance and self-recovery (IEC materials dissemination, demonstration of key mitigation and improvements to be implemented on the shelter components during construction/repair/reinforcement...).
+- Monitoring and evaluation of humanitarian shelter and reconstruction programmes (housing/infrastructure rehabilitation, beneficiary satisfaction surveys).
+- Definition of shelter interventions considering the use of appropriate materials and technologies, innovation and energy efficiency and specification development.
+- Participatory approaches for community regeneration/ upgrading.
+- Identification and advocacy on overcoming regulatory barriers to the provision of shelter, including housing, land and property issues/security of tenure.
+- Coordination within RCRC movement to support one movement approach and integrating programming.
 
 ## Personnel
 
-**Total:** 1+ people
+**Total:** 1+ people.
 
 **Composition:** It depends on the emergency and the context. It can be 1 person or a team with several members with 3-4 different profiles.
 

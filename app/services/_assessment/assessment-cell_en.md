@@ -9,13 +9,13 @@ lang: en
 pictures:
 - file: /assessment/assessment-cell_01.jpg
   thumb: /assessment/assessment-cell_01_thumb.jpg
-  caption: ""
+  caption: "Mozambique Tropical Cyclone Idai operation. Team briefing before aerial assessment."
 - file: /assessment/assessment-cell_02.jpg
   thumb: /assessment/assessment-cell_02_thumb.jpg
-  caption: ""
+  caption: "Bangladesh, Khulna, 12 Nov 2019 - After extreme severe tropical cyclonic storm 'Bulbul', Bangladesh Red Crescent Society and its Movement partners including the IFRC conducting rapid needs assessment."
 - file: /assessment/assessment-cell_03.jpg
   thumb: /assessment/assessment-cell_03_thumb.jpg
-  caption: ""
+  caption: "Mozambique TC Idai operation. Sharing information with stakeholders."
 ---
 
 ## Capacity
@@ -49,9 +49,9 @@ The assessment cell can be deployed to sudden on set disasters, slow on set, pro
 
 ## Personnel
 
-**Total:** 2+ people
+**Total:** 2+ people.
 
-**Composition:** Assessment Cell Coordinator, Info Analyst, Primary Data Collection Specialist, Secondary Data Collection Specialist (can be remote), Data Visualization Specialist
+**Composition:** Assessment Cell Coordinator, Info Analyst, Primary Data Collection Specialist, Secondary Data Collection Specialist (can be remote), Data Visualization Specialist.
 
 ## Variation on configuration
 

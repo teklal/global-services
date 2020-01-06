@@ -31,19 +31,19 @@ The Surge Security Coordinator is required to deploy in a complex and / or large
 
 ## Designed for
 
-**Strategic management/support:** Advise and support the HeOps on security related matters focusing on all personnel and  assets that are under IFRC security management responsibility.  Provide technical guidance in relation to security related issues in Emergency appeals and budgets, for continued operations.
+- **Strategic management/support:** Advise and support the HeOps on security related matters focusing on all personnel and  assets that are under IFRC security management responsibility.  Provide technical guidance in relation to security related issues in Emergency appeals and budgets, for continued operations.
 
-**Operational management/support:** Guide and support the in-country security risk management process,- development of a comprehensive security risk assessment-identification of functional and practical risk prevention and mitigation measures. To assist HeOps in creating  security management systems and provide rapid and professional support / assistance. Ensure that the operation is IFRC,  MSR compliant and oversee the implementation of procedures if required. Follow-up on security incident reporting and assist the HeOps in incident analysis and incident mapping.  Update the IFRC Security Risk Register as and when necessary and report any changes and make appropriate recommendations to HeOps. 
+- **Operational management/support:** Guide and support the in-country security risk management process,- development of a comprehensive security risk assessment-identification of functional and practical risk prevention and mitigation measures. To assist HeOps in creating  security management systems and provide rapid and professional support / assistance. Ensure that the operation is IFRC,  MSR compliant and oversee the implementation of procedures if required. Follow-up on security incident reporting and assist the HeOps in incident analysis and incident mapping.  Update the IFRC Security Risk Register as and when necessary and report any changes and make appropriate recommendations to HeOps.
 
-**Compliance:** Guide and support in-country MSR process, including the relevant procedures and trainings/briefings. Monitor, evaluate and report on the implementation of MSRs.
+- **Compliance:** Guide and support in-country MSR process, including the relevant procedures and trainings/briefings. Monitor, evaluate and report on the implementation of MSRs.
 
-**Coordination:** Establish and maintain a security network of internal and external contacts and participate in relevant meetings both internally and externally. 
+- **Coordination:** Establish and maintain a security network of internal and external contacts and participate in relevant meetings both internally and externally.
 
-**Training & development:** Conduct security briefings for all incoming personnel and provide general or more specific trainings 
+- **Training & development:** Conduct security briefings for all incoming personnel and provide general or more specific trainings.
 
 ## Specifications
 
-**National societies providing this service:** Danish Red Cross, German Red Cross, British Red Cross, Swedish Red Cross, American Red Cross, Canadian Red Cross, IFRC
+**National societies providing this service:** Danish Red Cross, German Red Cross, British Red Cross, Swedish Red Cross, American Red Cross, Canadian Red Cross, IFRC.
 
 ## Variation on configuration
 

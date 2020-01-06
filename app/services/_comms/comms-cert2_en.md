@@ -22,14 +22,14 @@ pictures:
 
 Rapid deployment of communications professionals at the outset of and during a disaster or emergency can support IFRC and its members to:
 
-- Shape the public story and seize the immediate media opportunity in the first 24-72 hours following an emergency (or 24-36 hours prior to an imminent disaster)
-- Raise funds for appeals
-- Protect against reputational criticisms of inaction that invariably follow any emergency response
-- Provide first-hand information and analysis on disaster and crisis situations (including for international media and content generation)
-- Communication with affected communities – share life-saving information and support delivery of better services 
-- Influence key stakeholders - advocacy on behalf of affected communities
-- Support coordination with partners 
-- Profile the work of the Red Cross and Red Crescent - create a better understanding of what we do, gain trust and generate more support 
+- Shape the public story and seize the immediate media opportunity in the first 24-72 hours following an emergency (or 24-36 hours prior to an imminent disaster).
+- Raise funds for appeals.
+- Protect against reputational criticisms of inaction that invariably follow any emergency response.
+- Provide first-hand information and analysis on disaster and crisis situations (including for international media and content generation).
+- Communication with affected communities – share life-saving information and support delivery of better services. 
+- Influence key stakeholders - advocacy on behalf of affected communities.
+- Support coordination with partners.
+- Profile the work of the Red Cross and Red Crescent - create a better understanding of what we do, gain trust and generate more support. 
 
 ## Emergency Services
 
@@ -37,30 +37,30 @@ Rapid deployment (within 36 hours upon receiving a deployment request) of suitab
 
 The CERT2 team will provide strategic and technical support and advice to the operations, host National Society and member National Societies with the aim of highlighting the needs of the affected people, the work of the Red Cross Red Crescent in responding to these needs, and advocating on behalf of people at risk and affected by disasters/ crises for increased action to address their vulnerabilities and unmet humanitarian needs. The focus of this CERT team will be on: 
 
-- Communications capacity and needs assessment, planning and implementing communications strategies
-- Setting the editorial narrative/messaging according to the news cycle and disaster response/management cycle
-- International media engagement, including coordinating requests and fielding interviews 
-- Audiovisual and written content production
-- Communications coordination with Movement partners
-- Coordinate communications support for high-level visits, media related requests and visits from partner National Societies
-- Ensure the availability of well-briefed spokespeople and support in country officials (National Society and IFRC) in their media engagements
+- Communications capacity and needs assessment, planning and implementing communications strategies.
+- Setting the editorial narrative/messaging according to the news cycle and disaster response/management cycle.
+- International media engagement, including coordinating requests and fielding interviews.
+- Audiovisual and written content production.
+- Communications coordination with Movement partners.
+- Coordinate communications support for high-level visits, media related requests and visits from partner National Societies.
+- Ensure the availability of well-briefed spokespeople and support in country officials (National Society and IFRC) in their media engagements.
 - Ensure strong social media engagement by proposing, gathering and sharing engaging content for IFRC and National Society channels, tracking trends and rumours, and supporting host National Society in responding to audience engagement with social media.
-- Supporting fundraising efforts
+- Supporting fundraising efforts.
 - Anticipating, identifying and flagging potential reputational issues, and work with relevant focal points to advise on appropriate response.
 
 ## Designed for
 
-- Medium scale emergencies (orange) with high level of international media attention and global public interest 
-- In a moderate to complex context requiring close communications coordination 
-- Escalation of slow onset emergencies, population movement or protracted crises
-- Public health emergencies (epidemic outbreaks)
-- Where potential media risk management could be required
+- Medium scale emergencies (orange) with high level of international media attention and global public interest.
+- In a moderate to complex context requiring close communications coordination.
+- Escalation of slow onset emergencies, population movement or protracted crises.
+- Public health emergencies (epidemic outbreaks).
+- Where potential media risk management could be required.
 
 ## Personnel
 
-**Total:** 3 person team 
+**Total:** 3 person team.
 
-**Composition:** 1x Communications Coordinator or Team Leader (depending on context), 1x Communications Officer, and 1x AV Officer
+**Composition:** 1x Communications Coordinator or Team Leader (depending on context), 1x Communications Officer, and 1x AV Officer.
 
 ## Standard components
 

@@ -19,15 +19,12 @@ The Surge Information Management Support (SIMS) project is a network of trained 
 
 ## Designed for
 
-**Mapping:** base maps, thematic maps, and interactive web maps to support response planning and decision-making.
-
-**Data visualisations:** infographics and dashboards to make data easily comprehensible for decision-makers.
-
-**Hands on expertise:** IM specialists in the field supporting data process, systems and management for global response teams and ops managers to better use date to aid decision-making.
-
-**Toolkit & resources:** comprehensive, adaptable IM toolkit and resources with ready-made template, formats and guidance materials for responders.
+- **Mapping:** Base maps, thematic maps, and interactive web maps to support response planning and decision-making.
+- **Data visualisations:** Infographics and dashboards to make data easily comprehensible for decision-makers.
+- **Hands on expertise:** IM specialists in the field supporting data process, systems and management for global response teams and ops managers to better use date to aid decision-making.
+- **Toolkit & resources:** Comprehensive, adaptable IM toolkit and resources with ready-made template, formats and guidance materials for responders.
 
 ## Additional resources
 
 - SIMS [website](http://rcrcsims.org/)
-- IFRC [GO](http://ifrcgo.org/)
+- IFRC [GO](https://go.ifrc.org/)

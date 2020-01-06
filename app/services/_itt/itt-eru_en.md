@@ -23,9 +23,9 @@ Rapid deployment to an affected area with destroyed, damaged, or insufficient co
 
 ## Personnel
 
-**Total:** generally 2-6 people
+**Total:** Generally 2-6 people.
 
-**Compostion:** 1 team leader and technicians with context-appropriate skill sets
+**Compostion:** 1 team leader and technicians with context-appropriate skill sets.
 
 ## Standard components
 
@@ -40,10 +40,6 @@ Rapid deployment to an affected area with destroyed, damaged, or insufficient co
 
 ## Specifications
 
-"app. 150,000CHF without VSATS; 
-VSAT systems = app. 35,000CHF/per system"
+**Cost (indicative):** CHF 150,000 without VSATS (approximately CHF 35,000 additional per VSAT system)
 
-
-**Cost (indicative):** CHF 50,000 without VSATS (approximately CHF 35,000 additional per VSAT system)
-
-**National societies providing this service:** American Red Cross, Austrian Red Cross, Danish Red Cross, Finish Red Cross, New Zealand Red Cross, Spanish Red Cross
+**National societies providing this service:** American Red Cross, Austrian Red Cross, Danish Red Cross, Finish Red Cross, New Zealand Red Cross, Spanish Red Cross.
