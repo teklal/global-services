@@ -3,7 +3,7 @@ order: 2
 layout: service
 identifier: health-emt2
 type: Clinical - Emergency Response Unit
-title: ERU RCEH - EMT Type 2
+title: ERU Red Cross Red Crescent Emergency Hospital
 preview: "24 hour clinical services for 100-200 outpatients/day, and 1 operating theatre."
 lang: en
 pictures:

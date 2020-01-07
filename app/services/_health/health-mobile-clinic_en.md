@@ -61,4 +61,4 @@ Specific module names and components may vary but generally include the followin
 
 **Cost (indicative):** TBD
 
-**National societies providing this service:** Canadian, Spanish, (French ?).
+**National societies providing this service:** Canadian, Spanish.

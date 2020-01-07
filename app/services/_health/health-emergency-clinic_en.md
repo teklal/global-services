@@ -1,9 +1,9 @@
 ---
 order: 1
 layout: service
-identifier: health-emt1
+identifier: health-emergency-clinic
 type: Clinical - Emergency Response Unit
-title: ERU RCEC - EMT Type 1
+title: ERU Red Cross Red Crescent Emergency Clinic
 preview: "Day time clinical services with observation capacity possible for 100 outpatients/day."
 lang: en
 pictures:
