@@ -3,7 +3,7 @@ rvm:
 - 2.3.1
 env:
   global:
-  - TRAVIS_NODE_VERSION="v11.15.0"
+  - TRAVIS_NODE_VERSION="v12.14.0"
   - GH_REF=github.com/IFRCGo/global-services.git
   - DEPLOY_BRANCH=publish
   matrix:

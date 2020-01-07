@@ -117,9 +117,8 @@ TODO
 
 - Suggested to install [Node Version Manager](https://github.com/nvm-sh/nvm). 
   - `nvm use`
-- `npm install`
+- `npm install` (will automatically run `bundle install` as well)
 - `npm install -g gulp`
-- `bundle install`
 - To run a test server: `gulp serve`
 
 ## Production
