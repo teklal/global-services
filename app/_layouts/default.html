@@ -4,7 +4,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="icon" href="{% render_depth %}favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="{% render_depth %}assets/img/ifrc-digital-32x32.png" />
   
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@ifrc" />
@@ -25,7 +25,7 @@
       <div class="container py-5">
         <div id="nav-row" class="row no-gutters">
           <div id="nav-block">
-            <a class="nav-ifrc" href="{% render_depth %}{% if page.lang != site.default_locale %}{{ page.lang }}/{% endif %}" style='background-image:url("{% render_depth %}assets/img/ifrc-digital-logo.svg")'></a>
+            <a class="nav-ifrc" href="{% render_depth %}{% if page.lang != site.default_locale %}{{ page.lang }}/{% endif %}" style='background-image:url("{% render_depth %}assets/img/Logo-Square-RGB.png")'></a>
             {% if page.collection %}
               {% assign activePage = page.collection %}
             {% else %}

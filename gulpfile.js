@@ -166,7 +166,7 @@ function watching() {
       baseDir: ['_site']
     }
   });
-  gulp.watch(['app/', '_config*'], gulp.series(
+  gulp.watch(['./app', './_config*'], gulp.series(
     jekyll, 
     gulp.parallel(styles, javascripts), 
     copyAssets, 
