@@ -53,6 +53,7 @@ TODO
       url: "/es/livelihood/"
 ```
 - the first line is the sector identifier (`livelihood` above)
+  - **note:** capitalization must match exactly throughout!
 - add a new file (with the same name as the new sector identifier) to each language folder, e.g. `livelihood.html`
   - edit the `identifier`, and `lang` values in the YAML front matter for each file
   - change the sector name in the `assign sector` line to match the new sector
@@ -70,6 +71,7 @@ TODO
 - `npm install -g icon-font-generator`
 - `icon-font-generator font-generator/my-icons/*.svg --name humanitarian --prefix humanitarian --html false --json false --cssfontsurl  "../fonts/" -o font-generator/icon-dist`  
 - copy files to `/app/assets/fonts` and `/app/assets/styles`
+- if you're testing locally, you may need to "Empty Cache and Hard Reload" your browser for the page CSS changes to take effect and render the icon
 
 ## Editing the images in the gallery on a service page
 

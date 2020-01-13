@@ -173,6 +173,7 @@ function watching() {
     browserReload));   
 }
 exports.serve = gulp.series(
+  clean,
   jekyll, 
   gulp.parallel(styles, javascripts, fontawesome, justifiedGalleryCss, lightgalleryFonts, lightgalleryCss, lightgalleryImg), 
   copyAssets, 

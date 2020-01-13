@@ -76,6 +76,12 @@ collections:
       url: "/logistics/"
     es: 
       url: "/es/logistica/"
+  opsmanagement:
+    output: true
+    en: 
+      url: "/opsmanagement/"
+    es: 
+      url: "/es/opsmanagement/"
   pgi:
     output: true
     en: 

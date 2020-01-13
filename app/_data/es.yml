@@ -61,6 +61,9 @@ logs:
 livelihood:
   title: "Food security and livelihood"
 
+opsmanagement:
+  title: "Operations Management"
+
 pgi:
   title: "Protection, Gender and Inclusion (PGI)"
 

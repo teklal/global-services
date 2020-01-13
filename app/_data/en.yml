@@ -37,6 +37,7 @@ sectors:
 
 assessment:
   title: "Emergency Needs Assessment"
+  about: "The IFRC and it’s member National Societies has invested all along the years in needs assessment through the design and dissemination of guidelines, multiple learning and training activities, strengthening the network and lessons learned exercises. The needs assessment cell for emergency response, have been built based in the lesson learned from past operations. The assessment cell revised concept and approach have been promoted since 2019 and the National Societies network and IFRC capacity enhancement, should keep progressing from country to global level."
 
 basecamp:
   title: "Basecamp"
@@ -87,6 +88,9 @@ logs:
     - name: "Standard products catalogue"
       description: "Previously called Emergency Items Catalogue, this is a compilation of descriptions and specifications for standard relief items delivered to relief operations."
       link: "https://itemscatalogue.redcross.int/"
+
+opsmanagement:
+  title: "Operations Management"
 
 pgi:
   title: "Protection, Gender and Inclusion (PGI)"

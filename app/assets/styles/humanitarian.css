@@ -1,10 +1,10 @@
 @font-face {
     font-family: "humanitarian";
-    src: url("../fonts/humanitarian.eot?bebe107233549d3e148768ea927c85e8?#iefix") format("embedded-opentype"),
-url("../fonts/humanitarian.woff2?bebe107233549d3e148768ea927c85e8") format("woff2"),
-url("../fonts/humanitarian.woff?bebe107233549d3e148768ea927c85e8") format("woff"),
-url("../fonts/humanitarian.ttf?bebe107233549d3e148768ea927c85e8") format("truetype"),
-url("../fonts/humanitarian.svg?bebe107233549d3e148768ea927c85e8#humanitarian") format("svg");
+    src: url("../fonts/humanitarian.eot?9adb51ca83d80540cce13fe6d4ebcac0?#iefix") format("embedded-opentype"),
+url("../fonts/humanitarian.woff2?9adb51ca83d80540cce13fe6d4ebcac0") format("woff2"),
+url("../fonts/humanitarian.woff?9adb51ca83d80540cce13fe6d4ebcac0") format("woff"),
+url("../fonts/humanitarian.ttf?9adb51ca83d80540cce13fe6d4ebcac0") format("truetype"),
+url("../fonts/humanitarian.svg?9adb51ca83d80540cce13fe6d4ebcac0#humanitarian") format("svg");
 }
 
 i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
@@ -51,18 +51,21 @@ i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
 .humanitarian-icon_logs:before {
     content: "\f10b";
 }
-.humanitarian-icon_pgi:before {
+.humanitarian-icon_opsmanagement:before {
     content: "\f10c";
 }
-.humanitarian-icon_relief:before {
+.humanitarian-icon_pgi:before {
     content: "\f10d";
 }
-.humanitarian-icon_security:before {
+.humanitarian-icon_relief:before {
     content: "\f10e";
 }
-.humanitarian-icon_shelter:before {
+.humanitarian-icon_security:before {
     content: "\f10f";
 }
-.humanitarian-icon_wash:before {
+.humanitarian-icon_shelter:before {
     content: "\f110";
+}
+.humanitarian-icon_wash:before {
+    content: "\f111";
 }

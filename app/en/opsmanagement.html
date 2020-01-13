@@ -1,0 +1,9 @@
+---
+layout: default
+identifier: opsmanagement
+lang: en
+---
+{% assign sector = site.collections | where: "label", "opsmanagement" | first %}
+{% include sector-about.html %}
+{% include sector-services.html %}
+{% include footer.html %}
