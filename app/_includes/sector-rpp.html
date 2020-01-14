@@ -12,7 +12,11 @@
           <div class="card-header">{{ site.data[page.lang].sectors.rp-title }}</div>
           <div class="list-group list-group-flush">
             {% for profile in site.data[page.lang][sector.label].role-profiles %}
-             <a href="{{ profile.link }}" class="list-group-item list-group-item-action">{{ profile.name }} &nbsp;<i class="far fa-file-pdf"></i></a>
+              {% if profile.link %}
+                <a href="{{ profile.link }}" class="list-group-item list-group-item-action">{{ profile.name }} &nbsp;<i class="far fa-file-pdf"></i></a>
+              {% else %}
+                <div class="list-group-item ">{{ profile.name }} <small>({{ site.data[page.lang].coming-soon }})</small></div>
+              {% endif %}
             {% endfor %}
           </div>
         </div>
@@ -23,7 +27,11 @@
             <p class="card-text">{{ site.data[page.lang].sectors.framework-description }}</p>
           </div>
           <div class="card-footer bg-transparent pt-0 border-top-0">
-            <a href="{% render_depth %}assets/docs/{{sector.label}}/{{ site.data[page.lang][sector.label].technical-framework }}" class="btn btn-outline-dark">{{ site.data[page.lang].learn-more }} &nbsp;<i class="far fa-file-pdf"></i></a>
+            {% if site.data[page.lang][sector.label].technical-framework %}
+              <a href="{% render_depth %}assets/docs/{{sector.label}}/{{ site.data[page.lang][sector.label].technical-framework }}" class="btn btn-outline-dark">{{ site.data[page.lang].learn-more }} &nbsp;<i class="far fa-file-pdf"></i></a>
+            {% else %}
+              <p><small>({{ site.data[page.lang].coming-soon }})</small></p>
+            {% endif %}
           </div>
         </div>
       </div>

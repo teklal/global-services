@@ -10,6 +10,7 @@ home: "/"
 learn-more: "Learn more"
 go-to: "Go to"
 gallery: "Image gallery"
+coming-soon: "coming soon"
 
 ###########
 ## ABOUT ##
@@ -38,12 +39,34 @@ sectors:
 assessment:
   title: "Emergency Needs Assessment"
   about: "The IFRC and it’s member National Societies has invested all along the years in needs assessment through the design and dissemination of guidelines, multiple learning and training activities, strengthening the network and lessons learned exercises. The needs assessment cell for emergency response, have been built based in the lesson learned from past operations. The assessment cell revised concept and approach have been promoted since 2019 and the National Societies network and IFRC capacity enhancement, should keep progressing from country to global level."
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
+  resources:
+    - name:
+      description:
+      link:
 
 basecamp:
   title: "Basecamp"
+  about:
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
+  resources:
+    - name:
+      description:
+      link:
 
 cash:
   title: "Cash-Based Intervention (CBI)"  
+  about:
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
   resources:
     - name: Cash in Emergencies Toolkit
       description: "The toolkit should inform and guide the implementation of cash programming, to improve the quality at the different phases of the project cycle."
@@ -54,29 +77,73 @@ cash:
 
 cea:
   title: "Community Engagement and Accountability (CEA)"
+  about:
+  technical-framework:
+  role-profiles:
+    - name:
+      link: 
+  resources:
+    - name:
+      description:
+      link:
 
 comms:
   title: "Communications"
   about: "Together with its member National Societies, the IFRC has developed a network of skilled communications professionals to provide management, strategic and technical support and advice to emergency operations, from rapid onset disasters to protracted crises in various contexts. Through our global coordination system, our communications specialists are able to reach millions of people and diverse audiences globally using a wide-range of communication channels."
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
+  resources:
+    - name:
+      description:
+      link:
 
 health:
   title: "Health"
   about: "The IFRC and its member National Societies have a network of personnel, equipment and approaches to prevent, detect and respond to health needs in emergencies, including both clinical and public health Emergency Response Units. These health response tools prevent and treat illness and improve health and dignity for communities affected by slow- and sudden-onset disasters or outbreaks. Deployable health capacities can support inter-agency health coordination, overall strategic direction for health, implementation of community- and clinic-based health interventions, and provide critical lifesaving services to communities, in support of government health systems and services."
-
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
+  resources:
+    - name:
+      description:
+      link:
+  
 im:
   title: "Information Management (IM)"
+  about:
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
+  resources:
+    - name:
+      description:
+      link:
 
 itt:
   title: "Information Technology & Telecoms (IT/T)"
-  
+  about:
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
+  resources:
+    - name:
+      description:
+      link:  
+
 livelihoods:
   title: "Livelihoods and Basic needs"
   about: "IFRC operates within the Sustainable Livelihoods Framework and has identified 5 types of Livelihoods assistance: 1. provisioning for lost livelihoods sources (basic needs assistance), 2. livelihoods recovery including replacement of lost Livelihoods assets, 3. livelihoods strengthening, 4. livelihoods diversification and 5. livelihoods protection. In Surge context, interventions will first focus on meeting basic needs through livelihoods provisioning, which includes that immediate food and nutrition needs are met (typically through in-kind support, cash or voucher assistance). Meanwhile other activities can be designed aiming at preventing further erosion of productive assets (livelihoods protection) or supporting the recovery of livelihoods through assets’ replacement and skills strengthening."
+  technical-framework:
   role-profiles:
     - name: "Livelihoods and Basic Needs Coordinator"
-      link: "#"
+      link: 
     - name: "Livelihoods and Basic Needs Officer"
-      link: "#"
+      link: 
   resources:
     - name: "IFRC Livelihoods Resource Centre (LRC)"
       description: "The Centre plays an active role in raising awareness and common understanding around livelihoods."
@@ -104,6 +171,9 @@ logs:
   title: "Logistics"
   about: "When National Societies implement humanitarian and development programmes, there is significant requirement for procurement, transportation, warehousing and handling of relief supplies. The IFRC  responds to this need by providing Logistics and Procurement Services, Fleet Services, country Level logistics services through its Logistics Procurement and Supply Chain Management (LPSCM) set up."
   technical-framework: "IFRC Logistics Technical Competency Framework v 5 (003).pdf"
+  role-profiles:
+    - name:
+      link:  
   resources:
     - name: "Logistics Standards Online"
       description: ""
@@ -114,9 +184,23 @@ logs:
 
 opsmanagement:
   title: "Operations Management"
+  about:
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
+  resources:
+    - name:
+      description:
+      link:
 
 pgi:
   title: "Protection, Gender and Inclusion (PGI)"
+  about:
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
   resources:
     - name: "Minimum standard commitments"
       description: "Minimum standard commitments to gender and diversity in emergency programming."
@@ -127,25 +211,50 @@ pgi:
 
 relief:
   title: "Relief"
+  about:
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
+  resources:
+    - name:
+      description:
+      link:
 
 security:
   title: "Security"
   about: "The IFRC provides security management support to any Movement partner requesting IFRC security support in operational contexts where the IFRC has the required capacity and the country office is deemed to be in compliance with the IFRC Minimum Security Requirements. The services are detailed within the 'IFRC security management support to Movement partners' procedures and are based upon 4 Levels of security coverage, depending on the modality of service requests. Movement partners can contact relevant IFRC Regional or Country offices for further information."
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
+  resources:
+    - name:
+      description:
+      link:
 
 shelter:
   title: "Shelter" 
   about: "The IFRC and its member National Societies have built a network of Shelter & Settlements  expertise to respond (individually or as a team) in case of need after a disaster on support to National Societies. This support can be provided to develop, coordinate and implement the Shelter component of the overall strategy of the Red Cross in response to the needs created by the impact of a disaster. But also to support the inter-agency coordination structure in place for the shelter sector to ensure that core services are provided to shelter agencies for an efficient humanitarian shelter response to the affected population on support of the government."
-
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
+  resources:
+    - name:
+      description:
+      link:
 wash:
   title: "Water, sanitation, and hygiene (WASH)"
   about: "The IFRC and its member national societies have built a network of WASH expertise and equipment to respond to a range of disaster scale and context.  On average, we provide 1.8 million people per year with access to safe water, sanitation and hygiene promotion in emergency response globally."
+  technical-framework:
   role-profiles:
     - name: "WASH Coordinator"
-      link: "#"
+      link: 
     - name: "WASH Engineer"
-      link: "#"
+      link: 
     - name: "Hygiene Promotion Specialist"
-      link: "#"
+      link: 
   resources:
     - name: "Watsan Mission Assistant"
       description: "This is a website resource for field WASH practitioners."
