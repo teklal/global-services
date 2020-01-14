@@ -7,6 +7,21 @@ title: Livelihoods and Basic needs
 preview: ""
 lang: en
 pictures:
+- file: /livelihoods/livelihoods-basic-needs_01.jpg
+  thumb: /livelihoods/livelihoods-basic-needs_01_thumb.jpg
+  caption: "The Indonesia Red Cross implemented a fishery-based livelihoods programme for women in tsunami-affected areas who could no longer plant rice due to drought. Credit:  Musfarayani/Dok, ©IFRC"
+- file: /livelihoods/livelihoods-basic-needs_02.jpg
+  thumb: /livelihoods/livelihoods-basic-needs_02_thumb.jpg
+  caption: "The Bangladesh Red Crescent Society’s (BDRCS) Dignity, Access, Participation, Safety Centre (DAPS) in the camps of Cox’s Bazar provides a space to meet new people, share thoughts and learn new skills such as fishing net making and repair or sewing. Credit: Ibrahim Mollik, ©IFRC"
+- file: /livelihoods/livelihoods-basic-needs_03.jpg
+  thumb: /livelihoods/livelihoods-basic-needs_03_thumb.jpg
+  caption: "A bakery in Port-au-Prince that was supported by the Italian Red Cross provides food and employment opportunities to the local community. Credit:  Samuel Dameus, ©IFRC"
+- file: /livelihoods/livelihoods-basic-needs_04.jpg
+  thumb: /livelihoods/livelihoods-basic-needs_04_thumb.jpg
+  caption: "The Philippine Red Cross responded to the immediate needs of the earthquake-affected communities by amongst others providing food items. Credit: France Noguera, ©IFRC"
+- file: /livelihoods/livelihoods-basic-needs_05.jpg
+  thumb: /livelihoods/livelihoods-basic-needs_05_thumb.jpg
+  caption: "A South Sudan Red Cross volunteer speaks with a farmer who received nutritionally rich seeds and farming implements from the Red Cross in May 2018. Credit: Corrie Butler, ©IFRC"
 ---
 
 ## Capacity

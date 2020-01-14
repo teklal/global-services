@@ -75,7 +75,7 @@ TODO
 
 ## Editing the images in the gallery on a service page
 
-It is possible to quickly resize images and create thumbnails using ImageMagick.
+It is possible to quickly resize images and create thumbnails using [ImageMagick](https://www.imagemagick.org/script/download.php).
 To install on OSX, download [HomeBrew](https://brew.sh/) and then run:
 ```
 brew install imagemagick

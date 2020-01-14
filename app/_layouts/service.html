@@ -11,6 +11,28 @@ layout: default
       
       <hr class="section-divider">
       
+      {% assign gallery_size = page.pictures | size %}
+      {% if gallery_size > 0 %}
+        {% for pic in page.pictures %}
+          <div id="caption{{forloop.index}}" style="display:none">
+            {{ pic.caption }}
+          </div>
+        {% endfor %}
+        <div class="picture-gallery">
+          <div id="lightgallery" class="justified-gallery">
+          {% for pic in page.pictures %}
+            <a href="{% render_depth %}assets/img{{ pic.file }}" data-sub-html="#caption{{forloop.index}}">
+              <img class="" src="{% render_depth %}assets/img{{ pic.thumb }}" />
+              <div class="picture-gallery-poster">
+                <img src="{% render_depth %}assets/img/zoom.png">
+              </div>
+            </a>
+          {% endfor %}
+          </div>
+        </div>
+        <hr class="section-divider">
+      {% endif %} 
+      
       {{content}}
       
     </div>
@@ -18,40 +40,6 @@ layout: default
 </div>
 
 
-{% assign gallery_size = page.pictures | size %}
-{% if gallery_size > 0 %}
-  <div class="container">
-    <div class="row">
-      <div class="col">
-      
-        <h2>{{site.data[page.lang].gallery}}</h2>
-        
-        {% for pic in page.pictures %}
-          <div id="caption{{forloop.index}}" style="display:none">
-            {{ pic.caption }}
-          </div>
-        {% endfor %}
-
-          <div class="picture-gallery">
-          <div id="lightgallery" class="justified-gallery">
-          {% for pic in page.pictures %}
-          
-            <a href="{% render_depth %}assets/img{{ pic.file }}" data-sub-html="#caption{{forloop.index}}">
-              <img class="" src="{% render_depth %}assets/img{{ pic.thumb }}" />
-              <div class="picture-gallery-poster">
-                <img src="{% render_depth %}assets/img/zoom.png">
-              </div>
-            </a>
-      
-          {% endfor %}
-          </div>
-          </div>
-
-        
-      </div>
-    </div>
-  </div> 
-{% endif %} 
 
 <br>
 
