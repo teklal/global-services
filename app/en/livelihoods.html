@@ -1,10 +1,11 @@
 ---
 layout: default
-identifier: livelihood
+identifier: livelihoods
 lang: en
 ---
-{% assign sector = site.collections | where: "label", "livelihood" | first %}
+{% assign sector = site.collections | where: "label", "livelihoods" | first %}
 {% include sector-about.html %}
+{% include sector-rpp.html %}
 {% include sector-services.html %}
 {% include sector-resources.html %}
 {% include footer.html %}

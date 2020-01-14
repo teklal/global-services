@@ -45,7 +45,7 @@ i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
 .humanitarian-icon_itt:before {
     content: "\f109";
 }
-.humanitarian-icon_livelihood:before {
+.humanitarian-icon_livelihoods:before {
     content: "\f10a";
 }
 .humanitarian-icon_logs:before {

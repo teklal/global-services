@@ -69,10 +69,33 @@ im:
 itt:
   title: "Information Technology & Telecoms (IT/T)"
   
-livelihood:
-  title: "Food security and livelihood"
-  about: ""
+livelihoods:
+  title: "Livelihoods and Basic needs"
+  about: "IFRC operates within the Sustainable Livelihoods Framework and has identified 5 types of Livelihoods assistance: 1. provisioning for lost livelihoods sources (basic needs assistance), 2. livelihoods recovery including replacement of lost Livelihoods assets, 3. livelihoods strengthening, 4. livelihoods diversification and 5. livelihoods protection. In Surge context, interventions will first focus on meeting basic needs through livelihoods provisioning, which includes that immediate food and nutrition needs are met (typically through in-kind support, cash or voucher assistance). Meanwhile other activities can be designed aiming at preventing further erosion of productive assets (livelihoods protection) or supporting the recovery of livelihoods through assets’ replacement and skills strengthening."
+  role-profiles:
+    - name: "Livelihoods and Basic Needs Coordinator"
+      link: "#"
+    - name: "Livelihoods and Basic Needs Officer"
+      link: "#"
   resources:
+    - name: "IFRC Livelihoods Resource Centre (LRC)"
+      description: "The Centre plays an active role in raising awareness and common understanding around livelihoods."
+      link: "http://www.livelihoodscentre.org/"
+    - name: "Livelihoods Toolbox"
+      description: "This Livelihoods Toolbox is meant to be a practical resource for livelihoods programming; a dynamic but structured box to facilitate access and understanding to existing tools for the different phases of a livelihoods project."
+      link: "http://www.livelihoodscentre.org/toolbox-intro" 
+    - name: "Livelihoods Indicators"
+      description: "Key indicators and a compilation of livelihood indicators."
+      link: "http://www.livelihoodscentre.org/indi"
+    - name: "Household Economic Security Guidelines (under revision)"
+      description: "Technical guidelines for assessment, analysis, and programme design."
+      link: "http://www.livelihoodscentre.org/documents/20720/100145/HES_Guidelines+3.0+%282014%29/92cb5220-9278-4cd2-9fa7-1f5af063f3b7"
+    - name: "Livelihoods Guidelines"
+      description: "This is a practical ‘how to’ guide to start or improve livelihoods programming under an early recovery or developmental programme."
+      link: "http://www.livelihoodscentre.org/documents/20720/100145/IFRC+Livelihoods+Guidelines_EN.PDF/9d230644-9b02-4249-8252-0d37e79ad346"
+    - name: "Food security assessment guidelines"
+      description: "This guide aims to assist National Society staff and volunteers throughout the world in undertaking food security assessments. It does not require prior knowledge or experience."
+      link: "https://www.ifrc.org/Global/global-fsa-guidelines-en.pdf"            
     - name: "Livelihoods Resource Centre trainings"
       description: "A number of standard training packages exist and can be taught by the Livelihoods Resource Centre (face-to-face or online)"
       link: "http://www.livelihoodscentre.org/list-training"
