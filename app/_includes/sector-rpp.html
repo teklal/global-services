@@ -7,7 +7,7 @@
       
     <div class="col-12">
       <div class="card-deck">
-        {% if site.data[page.lang][sector.label].role-profiles.size > 0 %}
+        {% if site.data[page.lang][sector.label].role-profiles.size > 0 and site.data[page.lang][sector.label].role-profiles[0].name %}
         <div class="card">
           <div class="card-header">{{ site.data[page.lang].sectors.rp-title }}</div>
           <div class="list-group list-group-flush">
