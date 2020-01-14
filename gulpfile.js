@@ -159,12 +159,9 @@ exports.getHumans = getHumans;
 /* ======================= */
 
 function watching() {
-  function browserReload() { browserSync.reload(); }
+  function browserReload(cb) { browserSync.reload(); cb(); }
   browserSync({
-    port: 3000,
-    server: {
-      baseDir: ['_site']
-    }
+    server: '_site'
   });
   gulp.watch(['./app', './_config*'], gulp.series(
     jekyll, 
