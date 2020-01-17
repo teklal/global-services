@@ -41,14 +41,14 @@ pictures:
 
 ## Capacity
 
-To support the host National Society to support/update relief assessments, targeted beneficiary selection, beneficiary registration and to assist in planning and set-up for food, cash based interventions and household items (including emergency shelter material distributions), as well as produce relief distribution statistics and reports.
+To support the host National Society to support/update relief assessments, targeted people selection, targeted people registration and to assist in planning and set-up for food, cash based interventions and household items (including emergency shelter material distributions), as well as produce relief distribution statistics and reports.
 
 ## Emergency Services
 
 The capacity of a deployed Relief ERU depends of support identified needs to carry out relief cycle activities: 
 
 - Relief assessment.
-- Beneficiary targeting and registration.
+- People targeted targeting and registration.
 - Distribution and related awareness.
 - Post distribution monitoring and reporting.
 
@@ -71,7 +71,7 @@ _All field officers could support the implementation of the relief activities cy
 
 ## Standard components
 
-- Relief kit (RK) with material to support beneficiaries registration and distribution.
+- Relief kit (RK) with material to support people targeted registration and distribution.
 - Medium Life Kit (MLK) with material to allow relief team to be autonomous.
 
 ## Specifications

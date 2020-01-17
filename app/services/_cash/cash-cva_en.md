@@ -45,7 +45,7 @@ Cash Coordinator, Cash Officer and Cash IM Officer profiles support the followin
 
 **Response Analysis:** Response Options Weighting, Transfer Value Calculation, Vulnerability & Hazard Mapping, Priority Needs Calculation, Targeting Data Analysis (Geographic, Vulnerability Criteria).
 
-**Set-up & Implementation:** CEA Infographics, Beneficiary Data Processing & Protection, Distribution/Encashment Planning Analysis, Distribution Reporting & Progress Mapping, Complaint & Feedback Mechanism Database. 
+**Set-up & Implementation:** CEA Infographics, People Targeted Data Processing & Protection, Distribution/Encashment Planning Analysis, Distribution Reporting & Progress Mapping, Complaint & Feedback Mechanism Database. 
 
 **Monitoring & Evaluation:** Exit Survey Data Collection & Analysis, PDM Data Collection & Analysis, Price Market Data Collection, Case Studies, Lessons Learned, Final Documentation.
 

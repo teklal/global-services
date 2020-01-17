@@ -57,7 +57,7 @@ The Shelter Surge Operational Capacity is provided through individuals or a team
 - Analysis of local building practices and materials. 
 - Construction management (quality control, specific expertise during construction phases).
 - Design Safe shelter awareness sessions/materials (software component shelter intervention) for quality assurance and self-recovery (IEC materials dissemination, demonstration of key mitigation and improvements to be implemented on the shelter components during construction/repair/reinforcement...).
-- Monitoring and evaluation of humanitarian shelter and reconstruction programmes (housing/infrastructure rehabilitation, beneficiary satisfaction surveys).
+- Monitoring and evaluation of humanitarian shelter and reconstruction programmes (housing/infrastructure rehabilitation, people targeted satisfaction surveys).
 - Definition of shelter interventions considering the use of appropriate materials and technologies, innovation and energy efficiency and specification development.
 - Participatory approaches for community regeneration/ upgrading.
 - Identification and advocacy on overcoming regulatory barriers to the provision of shelter, including housing, land and property issues/security of tenure.

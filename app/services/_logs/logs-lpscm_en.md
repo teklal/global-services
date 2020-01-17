@@ -13,7 +13,7 @@ pictures:
 
 National Societies may require Logistics and Procurement Services, Fleet Services and Country-Level Logistics Services from the International Federation of Red Cross and Red Crescent Societies (IFRC) when implementing humanitarian and development programmes. The IFRC responds to this need through its Logistics Procurement and Supply Chain Management (LPSCM) set up.
 
-In providing these services, the IFRC contributes to ensuring accountability to donors and beneficiaries by providing an efficient and effective means to maintain internal controls, ensuring value for money.
+In providing these services, the IFRC contributes to ensuring accountability to donors and affected population by providing an efficient and effective means to maintain internal controls, ensuring value for money.
 
 Through its global logistics network and structures, the LPSCM has the capacity to deliver the following services to the IFRC operations and National Societies:
 
@@ -38,7 +38,7 @@ Through its global logistics network and structures, the LPSCM has the capacity 
   Procurement for IFRC humanitarian and development programmes funded by donors is undertaken by LPSCM and is mandatory in the following circumstances: all procurements of drugs and medical supplies; all international procurements; when the National Society is unable to undertake procurement in compliance with donor requirements.
 
 
-- **Procurement process quality assurance:** This service provides accountability to donors and beneficiaries, ensures value for money and contributes to the prevention of fraud and corruption.
+- **Procurement process quality assurance:** This service provides accountability to donors and people targeted, ensures value for money and contributes to the prevention of fraud and corruption.
 Procurement process quality assurance is undertaken by LPSCM to support domestic procurement for an IFRC humanitarian and development programme where there is either: (1) a competent procurement specialist within the IFRC country office or (2) a competent National Society able to undertake procurement in compliance with donor requirements. In cases where the value of a procurement order exceeds CHF 50,000 or the procurement involves material that is unusual from a legal or reputational perspective, or it incurs financial risk to the IFRC, the file goes through a procurement process quality assurance review prior to the signing of the purchase order or contract.  
 
 - **Fleet services:** Vehicle Rental Programme, fleet management training and fleet development activities are delivered by the IFRC Global Fleet Unit to the IFRC’s country clusters/offices and National Societies around the world.

@@ -30,7 +30,7 @@ Operation dependent.
 PGI delegates are deployed to address specific protection, gender and inclusion issues affecting women, men, girls and boys (including elderly and persons with disabilities) during crises and build local protection capacities. 
 
 **Mainstreaming**
-- Monitor and support sex- age and disability data-collection to define beneficiary selection criteria and targeting.
+- Monitor and support sex- age and disability data-collection to define people selection criteria and targeting.
 - Provide technical advice to other teams on PGI mainstreaming (IFRC Minimum Standards for Protection, Gender and Inclusion; All Under One Roof Disability Inclusive Shelter and Settlements in Emergencies).
 - Support sectors in meeting accessibility standards in infrastructure and environment, information and communications.
 - Provide technical monitoring of programmes using the Minimum Standard Monitoring Template.
