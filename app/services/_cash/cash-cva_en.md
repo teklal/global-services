@@ -1,26 +1,26 @@
 ---
 order: 
 layout: service
-identifier: cash-cbi
+identifier: cash-cva
 type: Rapid Response
-title: CBI programming
+title: CVA
 preview: ""
 lang: en
 pictures:
-- file: /cash/cash-cbi_01.jpg
-  thumb: /cash/cash-cbi_01_thumb.jpg
+- file: /cash/cash-cva_01.jpg
+  thumb: /cash/cash-cva_01_thumb.jpg
   caption: "Lao Red Cross distributed unconditional cash grants in January 2019 to 1,464 households whose houses were totally destroyed by flash floods in Attapeu after a dam collapse."
-- file: /cash/cash-cbi_02.jpg
-  thumb: /cash/cash-cbi_02_thumb.jpg
+- file: /cash/cash-cva_02.jpg
+  thumb: /cash/cash-cva_02_thumb.jpg
   caption: "Bangladesh, Sirajganj, 9 Oct 2019 - Morjina, who came to the distribution point with her little granddaughter and daughter, received 4500 Bangladeshi Taka (53 US dollars) and vegetable seeds. More than 28 districts of Bangladesh faced extensive flooding due to heavy monsoon rain and water from upstream regions."
-- file: /cash/cash-cbi_03.jpg
-  thumb: /cash/cash-cbi_03_thumb.jpg
+- file: /cash/cash-cva_03.jpg
+  thumb: /cash/cash-cva_03_thumb.jpg
   caption: "Bangladesh, Sirajganj, 9 Oct 2019 - Bangladesh Red Crescent Society distributing cash grants and vegetable seeds to the flood-affected families in Sirajganj. A total of 209 families received 4,500 Bangladeshi Taka (53 US dollars) and eight kinds of vegetable seeds."
-- file: /cash/cash-cbi_04.jpg
-  thumb: /cash/cash-cbi_04_thumb.jpg
+- file: /cash/cash-cva_04.jpg
+  thumb: /cash/cash-cva_04_thumb.jpg
   caption: "Lombok, Indonesia, 2019 - One year after a series of earthquakes struck Lombok, Indonesia, the Indonesian Red Cross (Palang Merah Indonesia) has reached over 6,000 families with unconditional cash grants to help with shelter repairs. "
-- file: /cash/cash-cbi_05.jpg
-  thumb: /cash/cash-cbi_05_thumb.jpg
+- file: /cash/cash-cva_05.jpg
+  thumb: /cash/cash-cva_05_thumb.jpg
   caption: "Vietnam, Da Teh, Oct 2019 - In August 2019, the Da Teh district faced extensive flooding due to heavy monsoon rains. Red Cross teams are providing cash grants to the most vulnerable families to rebuild their lives."
 ---
 
@@ -56,12 +56,11 @@ Cash Coordinator, Cash Officer and Cash IM Officer profiles support the followin
 **Composition:** 
 - Cash Coordinator x 1 for cash feasibility, advocacy, mainstreaming cash into sectoral activities. 
 - Cash Officer x 1 for implementation. More Cash Officers can be deployed based on the geographical needs. 
-- Cash IM Officer x 1 for data management, repository and visualization.
+- Cash IM Officer x 1 for data management, support in reporting, visualization and decision making.
 
 ## Standard components
 
-- Relief kit (RK) with material to support beneficiaries registration and distribution.
-- Medium Life Kit (MLK) with material to allow relief team to be autonomous.
+- Cash in Emergencies toolkit, with tools, templates and guidelines available for implementation of any CVA intervention.
 
 ## Specifications
 
