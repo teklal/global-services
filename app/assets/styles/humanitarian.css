@@ -1,10 +1,10 @@
 @font-face {
     font-family: "humanitarian";
-    src: url("../fonts/humanitarian.eot?9adb51ca83d80540cce13fe6d4ebcac0?#iefix") format("embedded-opentype"),
-url("../fonts/humanitarian.woff2?9adb51ca83d80540cce13fe6d4ebcac0") format("woff2"),
-url("../fonts/humanitarian.woff?9adb51ca83d80540cce13fe6d4ebcac0") format("woff"),
-url("../fonts/humanitarian.ttf?9adb51ca83d80540cce13fe6d4ebcac0") format("truetype"),
-url("../fonts/humanitarian.svg?9adb51ca83d80540cce13fe6d4ebcac0#humanitarian") format("svg");
+    src: url("../fonts/humanitarian.eot?d5dde758d2978d9e0eef057d1c2cdd22?#iefix") format("embedded-opentype"),
+url("../fonts/humanitarian.woff2?d5dde758d2978d9e0eef057d1c2cdd22") format("woff2"),
+url("../fonts/humanitarian.woff?d5dde758d2978d9e0eef057d1c2cdd22") format("woff"),
+url("../fonts/humanitarian.ttf?d5dde758d2978d9e0eef057d1c2cdd22") format("truetype"),
+url("../fonts/humanitarian.svg?d5dde758d2978d9e0eef057d1c2cdd22#humanitarian") format("svg");
 }
 
 i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
@@ -57,15 +57,18 @@ i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
 .humanitarian-icon_pgi:before {
     content: "\f10d";
 }
-.humanitarian-icon_relief:before {
+.humanitarian-icon_pmer:before {
     content: "\f10e";
 }
-.humanitarian-icon_security:before {
+.humanitarian-icon_relief:before {
     content: "\f10f";
 }
-.humanitarian-icon_shelter:before {
+.humanitarian-icon_security:before {
     content: "\f110";
 }
-.humanitarian-icon_wash:before {
+.humanitarian-icon_shelter:before {
     content: "\f111";
+}
+.humanitarian-icon_wash:before {
+    content: "\f112";
 }

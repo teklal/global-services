@@ -1,0 +1,10 @@
+---
+layout: default
+identifier: pmer
+lang: en
+---
+{% assign sector = site.collections | where: "label", "pmer" | first %}
+{% include sector-about.html %}
+{% include sector-rpp.html %}
+{% include sector-services.html %}
+{% include footer.html %}

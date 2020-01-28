@@ -66,6 +66,9 @@ opsmanagement:
 
 pgi:
   title: "Protection, Gender and Inclusion (PGI)"
+  
+pmer:
+  title: "Planning, Monitoring, Evaluation and Reporting (PMER)"
 
 relief:
   title: "Relief"

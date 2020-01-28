@@ -208,6 +208,20 @@ pgi:
       description: "Disability-inclusive shelter and settlements in emergencies."
       link: "http://www.ifrc.org/Global/Documents/Secretariat/Shelter/All-under-one-roof_EN.pdf"
 
+pmer:
+  title: "Planning, Monitoring, Evaluation and Reporting (PMER)"
+  about:
+  technical-framework:
+  role-profiles:
+    - name: PMER Coordinator
+      link:  
+    - name: PMER Delegate
+      link:  
+  resources:
+    - name:
+      description:
+      link: 
+
 relief:
   title: "Relief"
   about:

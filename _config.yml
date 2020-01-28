@@ -88,6 +88,12 @@ collections:
       url: "/pgi/"
     es: 
       url: "/es/pgi/"  
+  pmer:
+    output: true
+    en: 
+      url: "/pmer/"
+    es: 
+      url: "/es/pmer/"  
   relief:
     output: true
     en: 
