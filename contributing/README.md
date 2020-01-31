@@ -1,6 +1,10 @@
+## Getting started
+
+1. To contribute to the project you'll need to have a GitHub account. Please sign up and select the free plan: https://github.com/join.
+
 ## Role profiles
 
-1. Check that the sector page has the "Rapid response personnel" section enabled.
+1. Check that the sector page you want to edit has the "Rapid response personnel" section enabled.
    - The sector pages are inside the 2-letter language folders inside the `/app/` [folder](https://github.com/IFRCGo/global-services/tree/publish/app) (for example, `/app/en/` and `/app/es/`).
    - If it is enabled, there will be a `{% include sector-rrp.html %}` line. See the `/app/en/livelihoods.html` [file](https://github.com/IFRCGo/global-services/blob/publish/app/en/livelihoods.html#L8) file for an example.
    - You can also check the live site, for example https://ifrcgo.org/global-services/livelihoods/ and look for the "Rapid response personnel" section.
