@@ -1,10 +1,10 @@
 @font-face {
     font-family: "humanitarian";
-    src: url("../fonts/humanitarian.eot?d5dde758d2978d9e0eef057d1c2cdd22?#iefix") format("embedded-opentype"),
-url("../fonts/humanitarian.woff2?d5dde758d2978d9e0eef057d1c2cdd22") format("woff2"),
-url("../fonts/humanitarian.woff?d5dde758d2978d9e0eef057d1c2cdd22") format("woff"),
-url("../fonts/humanitarian.ttf?d5dde758d2978d9e0eef057d1c2cdd22") format("truetype"),
-url("../fonts/humanitarian.svg?d5dde758d2978d9e0eef057d1c2cdd22#humanitarian") format("svg");
+    src: url("../fonts/humanitarian.eot?cd91f1df04af9561205d7d10f81de4c8?#iefix") format("embedded-opentype"),
+url("../fonts/humanitarian.woff2?cd91f1df04af9561205d7d10f81de4c8") format("woff2"),
+url("../fonts/humanitarian.woff?cd91f1df04af9561205d7d10f81de4c8") format("woff"),
+url("../fonts/humanitarian.ttf?cd91f1df04af9561205d7d10f81de4c8") format("truetype"),
+url("../fonts/humanitarian.svg?cd91f1df04af9561205d7d10f81de4c8#humanitarian") format("svg");
 }
 
 i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
