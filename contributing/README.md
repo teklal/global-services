@@ -3,6 +3,7 @@
 1. Check that the sector page has the "Rapid response personnel" section enabled.
    - The sector pages are inside the 2-letter language folders inside the `/app/` [folder](https://github.com/IFRCGo/global-services/tree/publish/app) (for example, `/app/en/` and `/app/es/`).
    - If it is enabled, there will be a `{% include sector-rrp.html %}` line. See the `/app/en/livelihoods.html` [file](https://github.com/IFRCGo/global-services/blob/publish/app/en/livelihoods.html#L8) file for an example.
+   - You can also check the live site, for example https://ifrcgo.org/global-services/livelihoods/ and look for the "Rapid response personnel" section.
 1. The profiles are updated through the language files in the `/app/_data/` [folder](https://github.com/IFRCGo/global-services/tree/publish/app/_data). Click into the language you want to update, for example the `en.yml` [file](https://github.com/IFRCGo/global-services/blob/publish/app/_data/en.yml)for English.
 1. Click the top-right pencil icon to **Edit the file in your fork of this project**.
    - ![](https://raw.githubusercontent.com/IFRCGo/global-services/publish/contributing/img/GitHub--edit-the-file.png) 
