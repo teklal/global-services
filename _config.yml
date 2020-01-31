@@ -7,6 +7,7 @@ exclude:
   - assets/styles
   - README.md
   - font-generator
+  - contributing
   
 default_locale:     "en"
 authorized_locales: ["en", "es"]

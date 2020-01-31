@@ -13,7 +13,7 @@
           <div class="list-group list-group-flush">
             {% for profile in site.data[page.lang][sector.label].role-profiles %}
               {% if profile.link %}
-                <a href="{{ profile.link }}" class="list-group-item list-group-item-action">{{ profile.name }} &nbsp;<i class="far fa-file-pdf"></i></a>
+                <a href="{% render_depth %}assets/docs/{{sector.label}}/{{profile.link}}" class="list-group-item list-group-item-action">{{ profile.name }} &nbsp;<i class="far fa-file-pdf"></i></a>
               {% else %}
                 <div class="list-group-item ">{{ profile.name }} <small>({{ site.data[page.lang].coming-soon }})</small></div>
               {% endif %}
