@@ -82,9 +82,12 @@ cea:
     - name:
       link: 
   resources:
-    - name:
-      description:
-      link:
+    - name: "CEA" 
+      description: "CEA on IFRC.org"
+      link: "https://www.ifrc.org/CEA"
+    - name: "Community Engagement Hub"
+      description: "(the hub is being populated with all materials but some are still missing)"
+      link: "https://www.communityengagementhub.org/"
 
 comms:
   title: "Communications"
