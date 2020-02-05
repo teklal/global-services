@@ -46,7 +46,7 @@ _An advanced CBS assessment team can be deployed for 1-2 weeks within  48 hours 
 
 **Volume:** Carry-on baggage
 
-**Cost (indicative):** CHF 5,000
+**Cost (indicative):** CHF 5,000 (equipment only)
 
 **National societies providing this service:** Norwegian
 

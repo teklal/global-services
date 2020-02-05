@@ -66,4 +66,4 @@ Cash Coordinator, Cash Officer and Cash IM Officer profiles support the followin
 
 **Cost (indicative):** HR only, depends upon the assignment.
 
-**National societies providing this service:** American, British, Danish, Austrian, BenLux, Swiss, IFRC.
+**National societies providing this service:** In the last years, many National Societies have enhanced their capacity and have contributed to CVA deployments. 

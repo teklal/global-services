@@ -43,9 +43,9 @@ assessment:
     - name:
       link:  
   resources:
-    - name:
-      description:
-      link:
+    - name: Assessment and planning
+      description: (requires FedNet login for access)
+      link: "https://fednet.ifrc.org/en/resources/disasters/disaster-and-crisis-mangement/assessment--planning/"
 
 basecamp:
   title: "Basecamp"

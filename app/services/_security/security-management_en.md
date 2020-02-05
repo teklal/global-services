@@ -41,10 +41,6 @@ The Surge Security Coordinator is required to deploy in a complex and / or large
 
 - **Training & development:** Conduct security briefings for all incoming personnel and provide general or more specific trainings.
 
-## Specifications
-
-**National societies providing this service:** Danish Red Cross, German Red Cross, British Red Cross, Swedish Red Cross, American Red Cross, Canadian Red Cross, IFRC.
-
 ## Variation on configuration
 
 In larger scale operations, in complex environments, it could be foreseen that more than one Security Coordinator is deployed.

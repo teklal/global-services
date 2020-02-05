@@ -61,7 +61,3 @@ Designed for the provision of support to NS in PGI mainstreaming (all sectors) a
 ## Standard components
 
 PGI human capacity and tools needed to carry out needs assessments to identify at-risk groups and protection risks; support National Society to enhance dignity, access, participation and safety of affected individuals within the response; coordinating closely with relevant ministries and other humanitarian actors including representation in protection cluster and its sub-clusters, SGBV and child protection referrals, and setting up (standardized) Dignity Houses and/or safe spaces for vulnerable groups, as required.
-
-## Specifications
-
-**National societies providing this service:** Australian Red Cross

@@ -7,6 +7,21 @@ title: ERU Red Cross Red Crescent Emergency Clinic
 preview: "Day time clinical services with observation capacity possible for 100 outpatients/day."
 lang: en
 pictures:
+- file: /health/health-emergency-clinic_01.jpg
+  thumb: /health/health-emergency-clinic_01_thumb.jpg
+  caption: "RCRC Emergency clinic"
+- file: /health/health-emergency-clinic_02.jpg
+  thumb: /health/health-emergency-clinic_02_thumb.jpg
+  caption: "RCRC Clinic in Philippines"
+- file: /health/health-emergency-clinic_03.jpg
+  thumb: /health/health-emergency-clinic_03_thumb.jpg
+  caption: "RCRC Clinic in Sulawesi, Indonesia"
+- file: /health/health-emergency-clinic_04.jpg
+  thumb: /health/health-emergency-clinic_04_thumb.jpg
+  caption: "RCRC Emergency clinic"
+- file: /health/health-emergency-clinic_05.jpg
+  thumb: /health/health-emergency-clinic_05_thumb.jpg
+  caption: "RCRC member with patients in Cox's Bazar"  
 ---
 
 ## Capacity

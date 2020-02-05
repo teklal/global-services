@@ -9,7 +9,10 @@ lang: en
 pictures:
 - file: /health/health-mobile-clinic_01.jpg
   thumb: /health/health-mobile-clinic_01_thumb.jpg
-  caption: ""
+  caption: "Mobile clinic distributing medicines in Sulawesi, Indonesia."
+- file: /health/health-mobile-clinic_02.jpg
+  thumb: /health/health-mobile-clinic_02_thumb.jpg
+  caption: "Mobile clinic in Cox's Bazar, Bangladesh."  
 ---
 
 ## Capacity

@@ -41,7 +41,7 @@ Design of SDB system, including alert, response and data management, for rapid i
 
 **Volume:** approx 3.2 CBM
 
-**Cost (indicative):** CHF 6,000-7,000
+**Cost (indicative):** (to be confirmed)
 
 **National societies providing this service:** Canadian
 

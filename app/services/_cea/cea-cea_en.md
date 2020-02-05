@@ -47,12 +47,3 @@ Flexible team (Tier 1 and 2) that can be adapted to the specific needs of a resp
 **Total:** Generally 2 people.
 
 **Composition:** Tier 1 Officer, and Tier 2 Coordinator.
-
-## Specifications
-
-**National societies providing this service:** Several NS profiles in the rosters. Many NS, like Swedish Red Cross, British Red Cross, Danish Red Cross among others are investing into building internal capacities and teams to be available for emergency operations.
-
-## Additional resources
-
-- [Community Engagement Hub](https://www.communityengagementhub.org/) (the hub is being populated with all materials but some are still missing)
-- CEA on [ifrc.org](https://www.ifrc.org/CEA)

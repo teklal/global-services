@@ -9,13 +9,16 @@ lang: en
 pictures:
 - file: /assessment/assessment-cell_01.jpg
   thumb: /assessment/assessment-cell_01_thumb.jpg
-  caption: "Mozambique Tropical Cyclone Idai operation. Team briefing before aerial assessment."
+  caption: "Samoa RC Volunteer getting primary data from a community member."
 - file: /assessment/assessment-cell_02.jpg
   thumb: /assessment/assessment-cell_02_thumb.jpg
   caption: "Bangladesh, Khulna, 12 Nov 2019 - After extreme severe tropical cyclonic storm 'Bulbul', Bangladesh Red Crescent Society and its Movement partners including the IFRC conducting rapid needs assessment."
 - file: /assessment/assessment-cell_03.jpg
   thumb: /assessment/assessment-cell_03_thumb.jpg
   caption: "Mozambique TC Idai operation. Sharing information with stakeholders."
+- file: /assessment/assessment-cell_04.jpg
+  thumb: /assessment/assessment-cell_04_thumb.jpg
+  caption: "Bangladesh Red Crescent and Movement partners conducting key informants interviews."
 ---
 
 ## Capacity
