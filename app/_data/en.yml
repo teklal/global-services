@@ -49,7 +49,7 @@ assessment:
 
 basecamp:
   title: "Basecamp"
-  about:
+  about: "The Base Camp provides Red Cross Red Crescent staff (both host National Society and International Federation staff) engaged in emergency operations with appropriate living and working conditions. The Base Camp offers tented accommodation, conditioned for hot and cold climates, toilets, hot showers, recreational facilities, a kitchen, offices, administrative, and coordination facilities in locations where these are not available for Red Cross Red Crescent staff."
   technical-framework:
   role-profiles:
     - name:
@@ -127,7 +127,7 @@ im:
 
 itt:
   title: "Information Technology & Telecoms (IT/T)"
-  about:
+  about: "IT/Tel global surge services are mainly the IT/TEL ERU. This unit establishes local communication networks and links between the field and the secretariat, to ensure the smooth flow of information to assist operational coordination. The ERU has a range of technology such as satellite phones, high-frequency and very high frequency radio systems, depending on the geographical location and local legal situation."
   technical-framework:
   role-profiles:
     - name:
@@ -227,7 +227,7 @@ pmer:
 
 relief:
   title: "Relief"
-  about:
+  about: "Through the support of the National Societies, the Relief ERU have set up unit to ensures that essential relief goods are delivered to the appropriate beneficiaries rapidly, effectively and in a well coordinated and dignified manner. This ERU carries out tasks related to beneficiary targeting, registration, distribution of relief items and monitoring and evaluation. It also covers emergency operational shelter and, where appropriate, may initiate alternative relief support, such as voucher and cash distributions."
   technical-framework:
   role-profiles:
     - name:
