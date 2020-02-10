@@ -174,8 +174,8 @@ logs:
   about: "When National Societies implement humanitarian and development programmes, there is significant requirement for procurement, transportation, warehousing and handling of relief supplies. The IFRC  responds to this need by providing Logistics and Procurement Services, Fleet Services, country Level logistics services through its Logistics Procurement and Supply Chain Management (LPSCM) set up."
   technical-framework: "IFRC Logistics Technical Competency Framework v 5 (003).pdf"
   role-profiles:
-    - name:
-      link:  
+    - name: "Supply Chain Coordinator"
+      link:  "Rapid Response Profile Supply Chain Coordinator .pdf"
   resources:
     - name: "Logistics Standards Online"
       description: ""
